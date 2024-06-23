@@ -16,9 +16,42 @@ Taken together, our results demonstrate a dynamic population and the emergence o
 
 ## File Descriptions
 
-| File Name       | Description                                |
-| --------------- | ------------------------------------------ |
-| `file1.ext`     | Description of what file1 does             |
-| `file2.ext`     | Description of what file2 does             |
-| `file3.ext`     | Description of what file3 does             |
-| `file4.ext`     | Description of what file4 does             |
+| File Name                           | Description                                                                   |
+| ----------------------------------- | ----------------------------------------------------------------------------- |
+| `External_samples_metadata.tsv`     | Metadata of external samples fetched from public database in this study       |
+| `Internal_samples_metadata.csv`     | Metadata of internal samples that were in-house sequenced in this study       |
+| `K_002_2.gbff`     | Annotated plasmid sequence of K_002_2             |
+| `K_005_2.gbff`     | Annotated plasmid sequence of K_005_2             |
+| `K_046_2.gbff`     | Annotated plasmid sequence of K_046_2             |
+| `K_058_2.gbff`     | Annotated plasmid sequence of K_058_2             |
+| `K_069_3.gbff`     | Annotated plasmid sequence of K_069_3             |
+| `K_074_4.gbff`     | Annotated plasmid sequence of K_074_4             |
+| `K_098_2.gbff`     | Annotated plasmid sequence of K_098_2             |
+| `K_105_2.gbff`     | Annotated plasmid sequence of K_105_2             |
+| `K_137_2.gbff`     | Annotated plasmid sequence of K_137_2             |
+| `K_151_2.gbff`     | Annotated plasmid sequence of K_151_2             |
+| `K_154_3.gbff`     | Annotated plasmid sequence of K_154_3             |
+| `K_157_2.gbff`     | Annotated plasmid sequence of K_157_2             |
+| `K_158_3.gbff`     | Annotated plasmid sequence of K_158_3             |
+| `K_160_2.gbff`     | Annotated plasmid sequence of K_160_2             |
+| `K_195_2.gbff`     | Annotated plasmid sequence of K_195_2             |
+| `K_229_3.gbff`     | Annotated plasmid sequence of K_229_3             |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
