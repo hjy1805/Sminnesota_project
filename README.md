@@ -14,7 +14,7 @@ Our results indicate the rise of four clones (BAPS groups) in Saudi Arabia, thre
 ### Conclusion:
 Taken together, our results demonstrate a dynamic population and the emergence of multidrug-resistant clones for *Salmonella Minnesota*. They also highlight the variety of plasmids carrying antimicrobial resistance genes and the genomic contexts for resistance genes, as well as the genomic rearrangements in the antimicrobial resistance (AMR) regions in IncC plasmids. These changes occur in response to antimicrobial therapy in the poultry sector.
 
-## File Descriptions
+## Files Descriptions
 
 | File Name                           | Description                                                                   |
 | ----------------------------------- | ----------------------------------------------------------------------------- |
