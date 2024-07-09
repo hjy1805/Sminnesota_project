@@ -18,6 +18,7 @@ Taken together, our results demonstrate a dynamic population and the emergence o
 
 | File Name                           | Description                                                                   |
 | ----------------------------------- | ----------------------------------------------------------------------------- |
+| `Annotated_plasmid folder`     | Annotated plasmid sequence in gbk format             |
 | `External_samples_metadata.tsv`     | Metadata of external samples fetched from public database in this study       |
 | `Internal_samples_metadata.csv`     | Metadata of internal samples that were in-house sequenced in this study       |
 | `K_002_2.gbff`     | Annotated plasmid sequence of K_002_2             |
