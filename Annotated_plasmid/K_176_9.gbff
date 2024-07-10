@@ -1,0 +1,193 @@
+LOCUS       contig_1                3372 bp    DNA     linear   UNK 10-JUL-2024
+DEFINITION  Salmonella contig_1, whole genome shotgun sequence.
+ACCESSION   contig_1
+VERSION     contig_1
+KEYWORDS    .
+SOURCE      Salmonella
+  ORGANISM  Salmonella
+            .
+COMMENT     Annotated with Bakta
+            Software: v1.9.3
+            Database: v5.1, full
+            DOI: 10.1099/mgen.0.000685
+            URL: github.com/oschwengers/bakta
+            
+            ##Genome Annotation Summary:##
+            Annotation Date                :: 07/10/2024, 16:46:58
+            CDSs                           ::     5
+            tRNAs                          ::     0
+            tmRNAs                         ::     0
+            rRNAs                          ::     0
+            ncRNAs                         ::     0
+            regulatory ncRNAs              ::     0
+            CRISPR Arrays                  ::     0
+            oriCs/oriVs                    ::     0
+            oriTs                          ::     1
+            gaps                           ::     0
+            pseudogenes                    ::     0
+FEATURES             Location/Qualifiers
+     source          1..3372
+                     /mol_type="genomic DNA"
+                     /organism="Salmonella"
+     gene            144..833
+                     /locus_tag="FLKPPE_00005"
+     CDS             144..833
+                     /db_xref="SO:0001217"
+                     /db_xref="UniRef:UniRef50_A0A5W4NGY5"
+                     /db_xref="UniRef:UniRef90_A0A5W4NGY5"
+                     /product="Ash family protein"
+                     /locus_tag="FLKPPE_00005"
+                     /protein_id="gnl|Bakta|FLKPPE_00005"
+                     /translation="MRCTWDRAICRMVKGWRERQQLTPPSEGTGSLPLSICRTEPRPSI
+                     TGRVSGRTRACVTYASSPHHLTRHATTYRELPPRSNSTNLAALHTVFVATHQVSAVDET
+                     LCAGSGTLTRAVAVVTAPPTANDSRKYASICKNRFFSGFLGDCAVEKFLKNTEGSCKLN
+                     ELVSVVDLNSFHRNIEEVRDLNEPETARLPGELFSFYARRRKIASAITRFFTSLRSKSK
+                     KTMFSPG"
+                     /codon_start=1
+                     /transl_table=11
+                     /inference="ab initio prediction:Prodigal:2.6"
+                     /inference="similar to AA
+                     sequence:UniRef:UniRef90_A0A5W4NGY5"
+     gene            complement(1048..1281)
+                     /locus_tag="FLKPPE_00010"
+                     /gene="mbeD"
+     CDS             complement(1048..1281)
+                     /db_xref="RefSeq:WP_000137389.1"
+                     /db_xref="SO:0001217"
+                     /db_xref="UniParc:UPI00016BEC24"
+                     /db_xref="UniRef:UniRef100_A0A1M1JEI3"
+                     /db_xref="UniRef:UniRef50_A0A2Y0FCF6"
+                     /db_xref="UniRef:UniRef90_A0A2Y0FCF6"
+                     /product="MbeD family mobilization/exclusion protein"
+                     /locus_tag="FLKPPE_00010"
+                     /protein_id="gnl|Bakta|FLKPPE_00010"
+                     /translation="MTELEGHLLNALEHLQQDYMRRLNEWESAFAELQKMHEVTQRNNA
+                     ILNERVVILSQQVQRLAGQVDRLSRLFIANNS"
+                     /codon_start=1
+                     /transl_table=11
+                     /inference="ab initio prediction:Prodigal:2.6"
+                     /inference="similar to AA sequence:RefSeq:WP_000137389.1"
+                     /gene="mbeD"
+     gene            complement(1288..1848)
+                     /locus_tag="FLKPPE_00015"
+                     /gene="mbeB"
+     CDS             complement(1288..1848)
+                     /db_xref="RefSeq:WP_000067487.1"
+                     /db_xref="SO:0001217"
+                     /db_xref="UniParc:UPI00026959EF"
+                     /db_xref="UniRef:UniRef100_A0A1M0BTU4"
+                     /db_xref="UniRef:UniRef50_A0A0C5B370"
+                     /db_xref="UniRef:UniRef90_A0A1M0BTU4"
+                     /product="MbeB family mobilization protein"
+                     /locus_tag="FLKPPE_00015"
+                     /protein_id="gnl|Bakta|FLKPPE_00015"
+                     /translation="MSNLLQMGTDFEKKLKERAASTENMLNSEFRKLEESVDKALSLNR
+                     QKIRDAISEHTTSVKKQLDTLSTTVSMQFSTTEAELSRQQKKLLWRVIKGRILFPALTA
+                     LSVTGGIFLGCWGLMEWQESKIAKNILTIREQENTLAKLEAKTWGVTFVNGENGKFLVL
+                     PDGVKGENTWTVGDKNAVRLVRE"
+                     /codon_start=1
+                     /transl_table=11
+                     /inference="ab initio prediction:Prodigal:2.6"
+                     /inference="similar to AA sequence:RefSeq:WP_000067487.1"
+                     /gene="mbeB"
+     gene            complement(2526..2864)
+                     /locus_tag="FLKPPE_00020"
+                     /gene="mobC"
+     CDS             complement(2526..2864)
+                     /db_xref="RefSeq:WP_251302571.1"
+                     /db_xref="SO:0001217"
+                     /db_xref="UniParc:UPI0004021631"
+                     /db_xref="UniRef:UniRef100_A0A4C3C1C8"
+                     /db_xref="UniRef:UniRef50_A0A2Y0D0F3"
+                     /db_xref="UniRef:UniRef90_A0A2Y0D0F3"
+                     /product="Mobilization protein MobC"
+                     /locus_tag="FLKPPE_00020"
+                     /protein_id="gnl|Bakta|FLKPPE_00020"
+                     /translation="MKREKMLTIRVTDEEHARLLERCEGKRLAEWMRRVCLGEPVARTG
+                     KLPTLSPPLLRHLAAIGNNLNQTARKVNSGQWSSIDRVHVVAALMAIEGELRQLRQAVR
+                     EQGVRDDS"
+                     /codon_start=1
+                     /transl_table=11
+                     /inference="ab initio prediction:Prodigal:2.6"
+                     /inference="similar to AA sequence:RefSeq:WP_251302571.1"
+                     /gene="mobC"
+     gene            2913..3104
+                     /locus_tag="FLKPPE_00025"
+     CDS             2913..3104
+                     /db_xref="RefSeq:WP_000165979.1"
+                     /db_xref="SO:0001217"
+                     /db_xref="UniParc:UPI000245E967"
+                     /db_xref="UniRef:UniRef100_A0A1M1GY49"
+                     /db_xref="UniRef:UniRef50_P03051"
+                     /db_xref="UniRef:UniRef90_A0A1M1GY49"
+                     /product="RNA I inhibition modulator protein Rom"
+                     /locus_tag="FLKPPE_00025"
+                     /protein_id="gnl|Bakta|FLKPPE_00025"
+                     /translation="MTKQEKTALNMARFIRSQTLTLLEKLNDLDADEQADICESLHDHA
+                     DELYRSCLARFGDDGESN"
+                     /codon_start=1
+                     /transl_table=11
+                     /inference="ab initio prediction:Prodigal:2.6"
+                     /inference="similar to AA sequence:RefSeq:WP_000165979.1"
+     oriT            3185..3266
+                     /note="origin of transfer"
+                     /inference="similar to DNA sequence"
+ORIGIN
+        1 gtgcacaatg cttgcatctg tgactcttcc gcttcctcgc ccactcgctc actacgttcg
+       61 gtcgctgggg ctgcggcgag cggtgggatc actctcgttg tgatgcagat ccgttttttt
+      121 ttttgcactg gagttatcag gagttgcggt gcacatggga tcgtgcgata tgccggatgg
+      181 tgaaaggttg gagggaacgg caacaactca cccctcccag tgaagggacg ggtagtttgc
+      241 cgctctcgat atgccggacg gagccaaggc catcgatcac ggggcgcgtc agtggaagaa
+      301 cccgcgcctg cgtgacgtat gcgtcttcgc cgcaccatct cacccgtcac gccaccacat
+      361 accgggaact gccgccaagg tctaactcaa ccaatctagc cgcgctacat acggtttttg
+      421 tggcaactca tcaggtgtcc gctgtcgatg aaactctctg cgccggtagc ggaactctca
+      481 cgcgtgcggt cgccgtcgtc acagctcccc caaccgcaaa cgattctcgc aaatacgcaa
+      541 gtatctgcaa aaacaggttt ttttcggggt tcctgggaga ctgtgctgtt gaaaaattct
+      601 tgaagaatac agaaggctca tgcaaactga atgaactggt ttctgttgtg gatctcaaca
+      661 gtttccacag gaacattgag gaggtcagag acctcaatga acccgaaaca gctcgccttc
+      721 ctggcgagct gttttcgttc tacgcccgcc gacgaaagat cgcaagtgca ataacgagat
+      781 ttttcacgtc tttacgctca aaaagtaaaa aaaccatgtt ttcccctggc tgaatcccca
+      841 aaaacgcgtg aaatgcgttt tcaggatgtt gcatagctat gcacaaatac ggcacacgat
+      901 ttgtttcgct cgccccagcc gtcgaactgg tcaaaatggc aagatttcgt cacttccccg
+      961 gtcacatctc cattgatggc ccactccgaa cccgtgccgc gcgttcctgt acctcatgtc
+     1021 tgtaccgggc acgctcctgt tcatccctta gctgttgttc gcgataaata accgactcaa
+     1081 gcgatccact tgcccggcta atctctgcac ctgctgactc aatatcacga cgcgctcgtt
+     1141 cagtatcgcg ttgttccgtt gcgtaacctc gtgcatcttc tgcaattccg cgaaggcgct
+     1201 ctcccactcg ttcagccgcc gcatatagtc ctgttgcaaa tgctctaagg cgttcagcaa
+     1261 atgcccttcc agttccgtca tactcgttta ctccctgacc agcctcacgg cgttcttgtc
+     1321 gcccaccgtc caggtgtttt cccctttcac cccgtccggc aacaccagaa atttcccgtt
+     1381 ctcgccattg acgaacgtca ccccccaggt ttttgcctcg agtttcgcca gcgtgttttc
+     1441 ctgctctctg atagtcagga tatttttcgc aatcttgctt tcctgccact ccatcagccc
+     1501 ccagcacccc aggaaaatgc cgcccgtgac gctgagcgcg gtcagcgccg gaaacagtat
+     1561 ccgccctttg atcacccgcc agagcagttt tttctgctgc cgggacagtt cggcctctgt
+     1621 ggtgctgaac tgcatgctca cggtggtgct cagcgtatcc agttgctttt tcacggatgt
+     1681 tgtatgttcg ctgatagcgt ctctgatttt ctgcctgttt aagctcaatg ccttgtctac
+     1741 agactcttcg agcttcctga actcgctgtt cagcatgttc tcggtagaag cggctcgctc
+     1801 tttcagtttc ttctcgaagt ctgttcccat ttgtaaaaga ttgctcatac agcgccccct
+     1861 ttagcctgag attccgcccc ccctccgggt cggcaatact gatgctgctt ttggttgtcc
+     1921 tcaccacctc aaaacctgcc gctgtaagcg cctctgtgac atcctgacgc gtttttattg
+     1981 ctccggcatg gtaaagagcc tcaagacccc gtgtaatcgc ttctgcggcc tcctgtttcg
+     2041 cttttggcag attatttggc gtgacaagcg tccgtctgtt ctccggtgcg ttcgggtcac
+     2101 gcagcccgta atgatgatta accagcgtct gccaggcatt tatcctcggc ctgtccgcgc
+     2161 ggtcgtagta cggctggagg cgcttaccgc tctgtagctc catgttcggg atgacaaaat
+     2221 tcagttcgag ccgcccctta tcctggtgtt ccacccagag aatgctgtac tggtcttttt
+     2281 cgagaccggg cataagaaca cgctcaaagc tcgtcatcac tctttcgcgt tcacccggcg
+     2341 gtaactcctt ctccgcgaac gacagaacgc ctgaagtgta tttcttcgag aatggcgtgg
+     2401 aatcaatgag ttcccgcact tcttccgggt taccccggag caccgttgcg ccttcgcggt
+     2461 tacgctcccg ccccagcagg taatcgaccg ggccacttcc accgcctttc cccctggcat
+     2521 gaaatttaac tatcatcccg taccccctgt tccctgacag cctgccgcaa ctggcgcaat
+     2581 tcaccctcga tggccatcag tgcggccacc acatgaaccc ggtcaatcga agaccactgg
+     2641 ccgctgttca ccttccgggc tgtctggttc aggttgttcc cgatggcagc cagatgccgc
+     2701 agcaatggcg gcgatagtgt cggcagtttt cctgtgcgtg caaccggctc ccccagacag
+     2761 acccgccgca tccattccgc cagtcgttta ccctcgcagc gttccagtaa ccgggcgtgc
+     2821 tcctcatcgg taacccgtat cgtgagcatc ttctcgcgtt tcatcggtat cattccccct
+     2881 aacaaatccc ccatacaagg agccttaaga ccatgaccaa acaggaaaaa acagccctta
+     2941 acatggctcg ctttatcaga agccagacgc taaccctgct ggaaaaactc aacgatctgg
+     3001 acgcggacga acaggcagac atctgcgaat cacttcacga ccacgccgac gaactctacc
+     3061 gcagttgcct cgcacgcttc ggcgatgacg gtgaaagcaa ctgaaacatg cagctcccgg
+     3121 agacgttcac agcttgcctg tgagcggatg ccgggagcag acaagcccgc cagggcgcgt
+     3181 cagtgcgggt gtcggggcgc agccctgacc cagttcacag agcgatagcg atgtgtatac
+     3241 tggcttatct cattttgcat cggtgcagac atggatggga agtgcaccat gtcaggagta
+     3301 aaaagccgca cagatgtaaa aacagcgcac ccgataaaca gcacacacgc ggacactggc
+     3361 acaggcgcgt aa
+//

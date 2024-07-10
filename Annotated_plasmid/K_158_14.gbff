@@ -1,0 +1,112 @@
+LOCUS       contig_1                2105 bp    DNA     linear   UNK 10-JUL-2024
+DEFINITION  Salmonella contig_1, whole genome shotgun sequence.
+ACCESSION   contig_1
+VERSION     contig_1
+KEYWORDS    .
+SOURCE      Salmonella
+  ORGANISM  Salmonella
+            .
+COMMENT     Annotated with Bakta
+            Software: v1.9.3
+            Database: v5.1, full
+            DOI: 10.1099/mgen.0.000685
+            URL: github.com/oschwengers/bakta
+            
+            ##Genome Annotation Summary:##
+            Annotation Date                :: 07/10/2024, 16:49:20
+            CDSs                           ::     2
+            tRNAs                          ::     0
+            tmRNAs                         ::     0
+            rRNAs                          ::     0
+            ncRNAs                         ::     0
+            regulatory ncRNAs              ::     0
+            CRISPR Arrays                  ::     0
+            oriCs/oriVs                    ::     0
+            oriTs                          ::     1
+            gaps                           ::     0
+            pseudogenes                    ::     0
+FEATURES             Location/Qualifiers
+     source          1..2105
+                     /mol_type="genomic DNA"
+                     /organism="Salmonella"
+     gene            421..1410
+                     /locus_tag="AHLDIK_00005"
+     CDS             421..1410
+                     /db_xref="RefSeq:WP_024136759.1"
+                     /db_xref="SO:0001217"
+                     /db_xref="UniParc:UPI00000B85CD"
+                     /db_xref="UniRef:UniRef100_A0A3J8NF75"
+                     /db_xref="UniRef:UniRef50_A0A511FSL3"
+                     /db_xref="UniRef:UniRef90_A0A0C5AZZ2"
+                     /product="Protein rep"
+                     /locus_tag="AHLDIK_00005"
+                     /protein_id="gnl|Bakta|AHLDIK_00005"
+                     /translation="MKNPDLQNLTDYSPSDAPWDAHRSVSDDVGGIYLLAAEYERYGAR
+                     MALCGGLLRFGWSTLKETGETRLRLREAHFCRVRHCPVCQWRRSLMWQARFYQSLPRIV
+                     ADYPDARWMFLTLTVRNCAIGELGEMLNRMNAAFQRMKVRKEFRPVQGWIRTTEVTRGS
+                     DGSAHPHFHTLMMVPPGMLNGKSYVRHERWVELWRECLRVDYDPNVDVRAVKPRKPKGG
+                     ESLACATAELVRGAVAETLKYSTKPADMVADPEWFLELTRQTHKRRFVATGGALKDVLK
+                     LDQETDADMVIGDDISEGDDDGSRIAFEWKTEVRKYRRSPTKDKTESG"
+                     /codon_start=1
+                     /transl_table=11
+                     /inference="ab initio prediction:Prodigal:2.6"
+                     /inference="similar to AA sequence:RefSeq:WP_024136759.1"
+     oriT            1412..1494
+                     /note="origin of transfer"
+                     /inference="similar to DNA sequence"
+     gene            complement(1551..2105)
+                     /locus_tag="AHLDIK_00010"
+     CDS             complement(1551..2105)
+                     /db_xref="SO:0001217"
+                     /db_xref="UniRef:UniRef50_UPI001C531884"
+                     /db_xref="UniRef:UniRef90_UPI001C531884"
+                     /product="hypothetical protein"
+                     /locus_tag="AHLDIK_00010"
+                     /protein_id="gnl|Bakta|AHLDIK_00010"
+                     /translation="MTPTTIPSVFPVPSSITKSEPTPEARAPAIFCLTNQGTVNGTRNF
+                     FAFREALAGCRGAVLTRFVEPHRVAKGCPLWHKRRSETPRFVYAAYRACVLGEQKNAVH
+                     TAHTMTHIITHNSKHTAHTITHTLTHKKDHNPIDTPQNNPHKRRVNHFAVFVPQPFRAI
+                     DKLAVRESHEVHEVRTYTNSP"
+                     /codon_start=1
+                     /transl_table=11
+                     /inference="ab initio prediction:Prodigal:2.6"
+                     /inference="similar to AA
+                     sequence:UniRef:UniRef90_UPI001C531884"
+ORIGIN
+        1 gcagtgaggc caaccacctg caagacggtt ttttttgttg ttcacaaaat cggggtgaaa
+       61 gtctgtggat gagatgggtg taagtgggtg gggttgggtg ttttgggtta ctgaaaatcc
+      121 cgctcaaaat tcaagcgaat ctcgcgcgcg atccttgtat ttatacttaa gggataactc
+      181 taggattcaa attcgcctcc agcccttgtg ccgcaaggcc tgaaggggga tttgtcggaa
+      241 aatggttttg gagttattct gtcgggagtg gtcgcattaa aagcgacccc cgcaacgagg
+      301 gcaatcgttc gggggtgtga ccacctgtag gaattcgaat tggtgatacg actaacacaa
+      361 caggtgatat ggcaatgata acacgtcaga tgagccatcg cccactatcg ggtggtgcgc
+      421 atgaaaaacc ctgatctcca gaacctcacg gactattccc cctcagatgc gccctgggac
+      481 gctcacagaa gcgtttctga tgacgtggga gggatttacc tgcttgcagc cgaatatgag
+      541 cgctacgggg cgcgtatggc cctctgtggt ggtttactgc gtttcgggtg gtctaccctc
+      601 aaggaaaccg gagaaacgcg tctgaggctg cgtgaggcgc atttctgccg tgtccggcat
+      661 tgtcctgtct gccagtggag gcgctccctg atgtggcaag cccgtttcta ccagtccctg
+      721 ccgcgtatcg tggcggatta tcccgatgcc cgctggatgt tcctgactct gaccgtgcgc
+      781 aactgtgcga tcggggagct gggcgagatg ctgaaccgga tgaatgcagc ttttcagcgc
+      841 atgaaggttc gcaaggagtt ccggcctgtg cagggctgga tacgtaccac ggaagtcacc
+      901 cgcgggagcg acggcagcgc acacccgcac ttccacaccc tgatgatggt gccgcctggc
+      961 atgctaaatg ggaaaagtta cgtcaggcat gaacgctggg ttgaactctg gcgggagtgt
+     1021 ctgcgggtcg attatgaccc gaatgttgat gtccgggcag tgaaacctcg taagccgaag
+     1081 ggcggcgaat cgctggcctg cgcgaccgcc gaactggtgc gcggtgcggt ggccgaaacc
+     1141 ctgaaatatt ccacgaagcc ggctgacatg gtggccgatc ctgaatggtt cctcgaactg
+     1201 acccgccaga cgcacaagcg ccgctttgtg gcgaccggcg gcgcactcaa agacgtgctg
+     1261 aaactcgatc aggaaactga cgccgacatg gtgatcggtg atgatatttc cgagggcgac
+     1321 gatgacggtt cacgaatcgc gttcgagtgg aaaaccgagg tcagaaagta ccgtcgctca
+     1381 ccgacgaaag ataaaactga atcaggctag cggggtgtcg gggtgcaccc ctgaccagat
+     1441 ggcaattgtg atagcgtcgc gtgtgacggt attacaatta cacatcctgt cccgaaaatt
+     1501 cccgccgttt ctcggttttt tgagcgtcgc agaccgcacg acaaacgaac ctaaggtgag
+     1561 tttgtataag tgcgcacttc gtgcacttcg tgagattccc tgactgccag tttgtcgatt
+     1621 gcgcggaacg gctgcggcac gaaaacggca aaatgattta ctcgccgttt gtgtgggttg
+     1681 ttttgtgggg tgtcaatggg gttgtggtct tttttgtggg ttaaagtgtg ggtgattgtg
+     1741 tgggctgtgt gttttgagtt gtgggtgatt atgtgggtca ttgtgtgggc tgtatgcacg
+     1801 gcattttttt gttctcctaa aacacaggca cgataagcgg cgtacacaaa acggggcgtt
+     1861 tcgctccgtc gcttgtgcca aaggggacac ccctttgcaa ccctgtgcgg ttctacgaac
+     1921 ctggtcagga ctgcgccccg acaccccgcc aacgcctcac ggaacgcgaa aaaattccgc
+     1981 gtaccgttca ccgttccctg attcgtcaaa cagaaaatcg cgggggcccg cgcctccggc
+     2041 gtgggttccg attttgtgat tgacgacggc acgggaaaaa cactggggat ggtggttggt
+     2101 gtcac
+//

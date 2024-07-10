@@ -1,0 +1,382 @@
+LOCUS       contig_1                7617 bp    DNA     linear   UNK 10-JUL-2024
+DEFINITION  Salmonella contig_1, whole genome shotgun sequence.
+ACCESSION   contig_1
+VERSION     contig_1
+KEYWORDS    .
+SOURCE      Salmonella
+  ORGANISM  Salmonella
+            .
+COMMENT     Annotated with Bakta
+            Software: v1.9.3
+            Database: v5.1, full
+            DOI: 10.1099/mgen.0.000685
+            URL: github.com/oschwengers/bakta
+            
+            ##Genome Annotation Summary:##
+            Annotation Date                :: 07/10/2024, 16:47:03
+            CDSs                           ::     9
+            tRNAs                          ::     0
+            tmRNAs                         ::     0
+            rRNAs                          ::     0
+            ncRNAs                         ::     1
+            regulatory ncRNAs              ::     0
+            CRISPR Arrays                  ::     0
+            oriCs/oriVs                    ::     1
+            oriTs                          ::     1
+            gaps                           ::     0
+            pseudogenes                    ::     0
+FEATURES             Location/Qualifiers
+     source          1..7617
+                     /mol_type="genomic DNA"
+                     /organism="Salmonella"
+     gene            1..840
+                     /locus_tag="CCOMAM_00005"
+                     /gene="repA"
+     CDS             1..840
+                     /db_xref="GO:0005524"
+                     /db_xref="GO:0006276"
+                     /db_xref="KEGG:K07505"
+                     /db_xref="RefSeq:WP_000190708.1"
+                     /db_xref="SO:0001217"
+                     /db_xref="UniParc:UPI00000434EC"
+                     /db_xref="UniRef:UniRef100_P20356"
+                     /db_xref="UniRef:UniRef50_P20356"
+                     /db_xref="UniRef:UniRef90_P20356"
+                     /product="Regulatory protein RepA"
+                     /locus_tag="CCOMAM_00005"
+                     /protein_id="gnl|Bakta|CCOMAM_00005"
+                     /translation="MATHKPINILEAFAAAPPPLDYVLPNMVAGTVGALVSPGGAGKSM
+                     LALQLAAQIAGGPDLLEVGELPTGPVIYLPAEDPPTAIHHRLHALGAHLSAEERQAVAD
+                     GLLIQPLIGSLPNIMAPEWFDGLKRAAEGRRLMVLDTLRRFHIEEENASGPMAQVIGRM
+                     EAIAADTGCSIVFLHHASKGAAMMGAGDQQQASRGSSVLVDNIRWQSYLSSMTSAEAEE
+                     WGVDDDQRRFFVRFGVSKANYGAPFADRWFRRHDGGVLKPAVLERQRKSKGVPRGEA"
+                     /codon_start=1
+                     /transl_table=11
+                     /inference="ab initio prediction:Prodigal:2.6"
+                     /inference="similar to AA sequence:RefSeq:WP_000190708.1"
+                     /gene="repA"
+     gene            827..1678
+                     /locus_tag="CCOMAM_00010"
+     CDS             827..1678
+                     /db_xref="RefSeq:WP_000240536.1"
+                     /db_xref="SO:0001217"
+                     /db_xref="UniParc:UPI00000D1396"
+                     /db_xref="UniRef:UniRef100_A0A2T3UTQ2"
+                     /db_xref="UniRef:UniRef50_A0A839P9M8"
+                     /db_xref="UniRef:UniRef90_S4VGY6"
+                     /product="Replication initiator protein C"
+                     /locus_tag="CCOMAM_00010"
+                     /protein_id="gnl|Bakta|CCOMAM_00010"
+                     /translation="MVKPKNKHSLSHVRHDPAHCLAPGLFRALKRGERKRSKLDVTYDY
+                     GDGKRIEFSGPEPLGADDLRILQGLVAMAGPNGLVLGPEPKTEGGRQLRLFLEPKWEAV
+                     TADAMVVKGSYRALAKEIGAEVDSGGALKHIQDCIERLWKVSIIAQNGRKRQGFRLLSE
+                     YASDEADGRLYVALNPLIAQAVMGGGQHVRISMDEVRALDSETARLLHQRLCGWIDPGK
+                     TGKASIDTLCGYVWPSEASGSTMRKRRQRVREALPELVALGWTVTEFAAGKYDITRPKA
+                     AG"
+                     /codon_start=1
+                     /transl_table=11
+                     /inference="ab initio prediction:Prodigal:2.6"
+                     /inference="similar to AA sequence:RefSeq:WP_000240536.1"
+     gene            1988..3400
+                     /locus_tag="CCOMAM_00015"
+     CDS             1988..3400
+                     /db_xref="SO:0001217"
+                     /db_xref="UniRef:UniRef50_P46104"
+                     /db_xref="UniRef:UniRef90_A0A8D4Z2F6"
+                     /product="Major facilitator superfamily (MFS) profile
+                     domain-containing protein"
+                     /locus_tag="CCOMAM_00015"
+                     /protein_id="gnl|Bakta|CCOMAM_00015"
+                     /translation="MSFSTSSSRPAQVSVARSWAVLVCLSILQFLIAVDVTVVNVALPS
+                     IGNDLGVDARGLTWVVVGYTITGGGLLMLGGRLGDVFGRRRLLLIGTAIFGAASLMAGL
+                     AETFPLLVGARLLQGVGEALALPAAMATIVLLFPEGRARTRALSVWAAVASCGLVLGFV
+                     LSGIITEYLGWRWIFLIAVPFVLFVLIASVALLPRDRSQERAPLDILGSILLTSAPLLF
+                     AFGVVEAGDSNGDVPWSSIAALVGAAAAAALFVKVERRAANPLVPLTFFRNRTRVRANL
+                     ATALLSSALSTSFLLFTFYLQDGLGLSPLESGLLLLPLAVALVVAVTVVPRLLGRWGAR
+                     ACIVVGLSSAGAGMIVIAAAAQLEAPAWLLTPAMLFIAAGMGFGLVGLQYAAVTEVTDD
+                     DAGVASGVQRAADQLGGSAGVTVYVGLGFASALHGVSPYVLSSGLAIIGLCLATAIVQR
+                     IVIVTQEQQTRT"
+                     /codon_start=1
+                     /transl_table=11
+                     /inference="ab initio prediction:Prodigal:2.6"
+                     /inference="similar to AA
+                     sequence:UniRef:UniRef90_A0A8D4Z2F6"
+     gene            3446..3793
+                     /locus_tag="CCOMAM_00020"
+     CDS             3446..3793
+                     /db_xref="RefSeq:WP_199792615.1"
+                     /db_xref="SO:0001217"
+                     /db_xref="UniParc:UPI0005E9902B"
+                     /db_xref="UniRef:UniRef100_A0A8D4Z5A4"
+                     /db_xref="UniRef:UniRef50_A0A1G9JY88"
+                     /db_xref="UniRef:UniRef90_A0A8D4Z5A4"
+                     /product="AraC-type DNA-binding protein"
+                     /locus_tag="CCOMAM_00020"
+                     /protein_id="gnl|Bakta|CCOMAM_00020"
+                     /translation="MATPGDSSVSPDRWSRGAPFVARTATIHRPLGPVAYDCVKVIVVR
+                     DGSAFLFSEFGQQTVKPGDVILLGANVLAGSEPEGHITVTTIYLDTDYMLDQVRWQYAA
+                     YLEDRLDAQEF"
+                     /codon_start=1
+                     /transl_table=11
+                     /inference="ab initio prediction:Prodigal:2.6"
+                     /inference="similar to AA sequence:RefSeq:WP_199792615.1"
+     gene            3803..4003
+                     /locus_tag="CCOMAM_00025"
+     CDS             3803..4003
+                     /db_xref="RefSeq:WP_205753522.1"
+                     /db_xref="SO:0001217"
+                     /db_xref="UniParc:UPI0012E45B72"
+                     /db_xref="UniRef:UniRef100_A0A8D4Z444"
+                     /db_xref="UniRef:UniRef50_A0A455U943"
+                     /db_xref="UniRef:UniRef90_A0A8D4Z444"
+                     /product="Cytochrome oxidase subunit I profile
+                     domain-containing protein"
+                     /locus_tag="CCOMAM_00025"
+                     /protein_id="gnl|Bakta|CCOMAM_00025"
+                     /translation="MPGQDILRADVYNQVFTLHGTVMMFLFAIPVLEGLAMYLIPKMLG
+                     TRDLAFPATARGVTAATLNCR"
+                     /codon_start=1
+                     /transl_table=11
+                     /inference="ab initio prediction:Prodigal:2.6"
+                     /inference="similar to AA sequence:RefSeq:WP_205753522.1"
+     rep_origin      4077..4472
+                     /note="origin of replication"
+                     /inference="similar to DNA sequence"
+     gene            complement(4495..4779)
+                     /locus_tag="CCOMAM_00030"
+                     /gene="mobC"
+     CDS             complement(4495..4779)
+                     /db_xref="RefSeq:WP_000238497.1"
+                     /db_xref="SO:0001217"
+                     /db_xref="UniParc:UPI00000001B3"
+                     /db_xref="UniRef:UniRef100_P07114"
+                     /db_xref="UniRef:UniRef50_P07114"
+                     /db_xref="UniRef:UniRef90_P07114"
+                     /product="Mobilization protein C"
+                     /locus_tag="CCOMAM_00030"
+                     /protein_id="gnl|Bakta|CCOMAM_00030"
+                     /translation="MVKGSNKAADRLAKLEEQRARINAEIQRVRAREQQQERKNETRRK
+                     VLVGAMILAKVNSSEWPEDRLMAAMDAYLERDHDRALFGLPPRQKDEPG"
+                     /codon_start=1
+                     /transl_table=11
+                     /inference="ab initio prediction:Prodigal:2.6"
+                     /inference="similar to AA sequence:RefSeq:WP_000238497.1"
+                     /gene="mobC"
+     oriT            4811..4896
+                     /note="origin of transfer"
+                     /inference="similar to DNA sequence"
+     gene            4978..7107
+                     /locus_tag="CCOMAM_00035"
+                     /gene="mobA"
+     CDS             4978..7107
+                     /db_xref="GO:0000428"
+                     /db_xref="GO:0003677"
+                     /db_xref="GO:0003896"
+                     /db_xref="GO:0003917"
+                     /db_xref="GO:0005737"
+                     /db_xref="GO:0046872"
+                     /db_xref="RefSeq:WP_001395566.1"
+                     /db_xref="SO:0001217"
+                     /db_xref="UniParc:UPI0000044E1A"
+                     /db_xref="UniRef:UniRef100_P07112"
+                     /db_xref="UniRef:UniRef50_P07112"
+                     /db_xref="UniRef:UniRef90_P07112"
+                     /product="Mobilization protein A"
+                     /locus_tag="CCOMAM_00035"
+                     /protein_id="gnl|Bakta|CCOMAM_00035"
+                     /translation="MAIYHLTAKTGSRSGGQSARAKADYIQREGKYARDMDEVLHAESG
+                     HMPEFVERPADYWDAADLYERANGRLFKEVEFALPVELTLDQQKALASEFAQHLTGAER
+                     LPYTLAIHAGGGENPHCHLMISERINDGIERPAAQWFKRYNGKTPEKGGAQKTEALKPK
+                     AWLEQTREAWADHANRALERAGHDARIDHRTLEAQGIERLPGVHLGPNVVEMEGRGIRT
+                     DRADVALNIDTANAQIIDLQEYREAIDHERNRQSEEIQRHQRVSGADRTAGPEHGDTGR
+                     RSPAGHEPDPAGQRGAGGGVAESPAPDRGGMGGAGQRVAGGSRRGEQRRAERPERVAGV
+                     ALEAMANRDAGFHDAYGGAADRIVALARPDATDNRGRLDLAALGGPMKNDRTLQAIGRQ
+                     LKAMGCERFDIGVRDATTGQMMNREWSAAEVLQNTPWLKRMNAQGNDVYIRPAEQERHG
+                     LVLVDDLSEFDLDDMKAEGREPALVVETSPKNYQAWVKVADAAGGELRGQIARTLASEY
+                     DADPASADSRHYGRLAGFTNRKDKHTTRAGYQPWVLLRESKGKTATAGPALVQQAGQQI
+                     EQAQRQQEKARRLASLELPERQLSRHRRTALDEYRSEMAGLVKRFGDDLSKCDFIAAQK
+                     LASRGRSAEEIGKAMAEASPALAERKPGHEADYIERTVSKVMGLPSVQLARAELARAPA
+                     PRQRGMDRGGPDFSM"
+                     /codon_start=1
+                     /transl_table=11
+                     /inference="ab initio prediction:Prodigal:2.6"
+                     /inference="similar to AA sequence:RefSeq:WP_001395566.1"
+                     /gene="mobA"
+     gene            7168..7380
+                     /locus_tag="CCOMAM_00040"
+     CDS             7168..7380
+                     /db_xref="RefSeq:WP_000455501.1"
+                     /db_xref="SO:0001217"
+                     /db_xref="UniParc:UPI00000BD96B"
+                     /db_xref="UniRef:UniRef100_Q79DW1"
+                     /db_xref="UniRef:UniRef50_Q79DW1"
+                     /db_xref="UniRef:UniRef90_Q79DW1"
+                     /product="Replication protein C (RepC)"
+                     /locus_tag="CCOMAM_00040"
+                     /protein_id="gnl|Bakta|CCOMAM_00040"
+                     /translation="MEYEKSASGSVYLIKSDKGYWLPGGFGYTSNKAEAGRFSVADMAS
+                     LNLDGCTLSLFREDKPFGPGKFLGD"
+                     /codon_start=1
+                     /transl_table=11
+                     /inference="ab initio prediction:Prodigal:2.6"
+                     /inference="similar to AA sequence:RefSeq:WP_000455501.1"
+     gene            7382..7588
+                     /locus_tag="CCOMAM_00045"
+                     /gene="urfF"
+     CDS             7382..7588
+                     /db_xref="RefSeq:WP_007857788.1"
+                     /db_xref="SO:0001217"
+                     /db_xref="UniParc:UPI00000B87AC"
+                     /db_xref="UniRef:UniRef100_Q52350"
+                     /db_xref="UniRef:UniRef50_A0A6S5DKH4"
+                     /db_xref="UniRef:UniRef90_Q52350"
+                     /product="plasmid repression protein F"
+                     /locus_tag="CCOMAM_00045"
+                     /protein_id="gnl|Bakta|CCOMAM_00045"
+                     /translation="MKDQKDKQTGDLLASPDAVRQARYAERMKAKGMRQRKFWLTDDEY
+                     EALRECLEELRAAQGGGSDPASA"
+                     /codon_start=1
+                     /transl_table=11
+                     /inference="ab initio prediction:Prodigal:2.6"
+                     /inference="similar to AA sequence:RefSeq:WP_007857788.1"
+                     /gene="urfF"
+     gene            7551..>7617
+                     /locus_tag="CCOMAM_00050"
+                     /gene="Plasmid_R1162"
+     ncRNA           7551..>7617
+                     /db_xref="RFAM:RF00043"
+                     /db_xref="SO:0000644"
+                     /product="(3' truncated) R1162-like plasmid antisense RNA"
+                     /locus_tag="CCOMAM_00050"
+                     /inference="profile:Rfam:RF00043"
+                     /ncRNA_class="antisense_RNA"
+                     /gene="Plasmid_R1162"
+ORIGIN
+        1 atggctaccc ataagcctat caatattctg gaggcgttcg cagcagcgcc gccaccgctg
+       61 gactacgttt tgcccaacat ggtggccggt acggtcgggg cgctggtgtc gcccggtggt
+      121 gccggtaaat ccatgctggc cctgcaactg gccgcacaga ttgcaggcgg gccggatctg
+      181 ctggaggtgg gcgaactgcc caccggcccg gtgatctacc tgcccgccga agacccgccc
+      241 accgccattc atcaccgcct gcacgccctt ggggcgcacc tcagcgccga ggaacggcaa
+      301 gccgtggctg acggcctgct gatccagccg ctgatcggca gcctgcccaa catcatggcc
+      361 ccggagtggt tcgacggcct caagcgcgcc gccgagggcc gccgcctgat ggtgctggac
+      421 acgctgcgcc ggttccacat cgaggaagaa aacgccagcg gccccatggc ccaggtcatc
+      481 ggtcgcatgg aggccatcgc cgccgatacc gggtgctcta tcgtgttcct gcaccatgcc
+      541 agcaagggcg cggccatgat gggcgcaggc gaccagcagc aggccagccg gggcagctcg
+      601 gtactggtcg ataacatccg ctggcagtcc tacctgtcga gcatgaccag cgccgaggcc
+      661 gaggaatggg gtgtggacga cgaccagcgc cggttcttcg tccgcttcgg tgtgagcaag
+      721 gccaactatg gcgcaccgtt cgctgatcgg tggttcaggc ggcatgacgg cggggtgctc
+      781 aagcccgccg tgctggagag gcagcgcaag agcaaggggg tgccccgtgg tgaagcctaa
+      841 gaacaagcac agcctcagcc acgtccggca cgacccggcg cactgtctgg cccccggcct
+      901 gttccgtgcc ctcaagcggg gcgagcgcaa gcgcagcaag ctggacgtga cgtatgacta
+      961 cggcgacggc aagcggatcg agttcagcgg cccggagccg ctgggcgctg atgatctgcg
+     1021 catcctgcaa gggctggtgg ccatggctgg gcctaatggc ctagtgcttg gcccggaacc
+     1081 caagaccgaa ggcggacggc agctccggct gttcctggaa cccaagtggg aggccgtcac
+     1141 cgctgatgcc atggtggtca aaggtagcta tcgggcgctg gcaaaggaaa tcggggcaga
+     1201 ggtcgatagt ggtggggcgc tcaagcacat acaggactgc atcgagcgcc tttggaaggt
+     1261 atccatcatc gcccagaatg gccgcaagcg gcaggggttt cggctgctgt cggagtacgc
+     1321 cagcgacgag gcggacgggc gcctgtacgt ggccctgaac cccttgatcg cgcaggccgt
+     1381 catgggtggc ggccagcatg tgcgcatcag catggacgag gtgcgggcgc tggacagcga
+     1441 aaccgcccgc ctgctgcacc agcggctgtg tggctggatc gaccccggca aaaccggcaa
+     1501 ggcttccata gataccttgt gcggctatgt ctggccgtca gaggccagtg gttcgaccat
+     1561 gcgcaagcgc cgccagcggg tgcgcgaggc gttgccggag ctggtcgcgc tgggctggac
+     1621 ggtaaccgag ttcgcggcgg gcaagtacga catcacccgg cccaaggcgg caggctgacc
+     1681 cccccactct attgtaaaca agacattttt atcttttata ttcaatggct tattttcctg
+     1741 ctaattggta ataccatgaa aaataccatg ctcagaaaag gcttaacaat attttgaaaa
+     1801 attgcctact gagcgctgcc gcacagctcc ataggccgct ttcctggctt tgcttccaga
+     1861 tgtatgctct tctgctcctg cagctaatgg atcaccgcaa acaggttact cgcctgggga
+     1921 ttccctttcg acccgagcat ccgtatgata ctcatgcccg atcttcattc gagcaacgga
+     1981 gttctctgtg tcttttagca cctcttcatc gcggcctgcg caagtatcgg tcgctcgttc
+     2041 ctgggcagtc cttgtttgtc tgtccatcct gcaattcctc atcgccgtcg acgtcaccgt
+     2101 ggtcaacgtg gcgctgccct ctatcggcaa cgatctgggc gttgatgcgc gcggcctgac
+     2161 atgggtcgtc gttggttaca ccatcacagg cggtggtctg ttgatgcttg gtggacgtct
+     2221 gggagacgtc ttcggccgcc gccgccttct gctcatcgga accgcgatct tcggagcggc
+     2281 ctcgctgatg gcgggcctcg cggagacctt tccgctactc gtcggtgcaa ggttgttgca
+     2341 gggtgtaggg gaagccctcg ccctgcccgc tgcgatggcg accatcgtcc tgttgtttcc
+     2401 cgaagggcgg gcgcgcaccc gcgccctgag cgtctgggct gcggttgcga gctgcggtct
+     2461 tgtgctgggg ttcgtgctct cgggaatcat caccgagtat ctcggttggc gatggatctt
+     2521 cctcatcgcc gttccgttcg tcctgttcgt gctgatcgct tctgtcgccc tgctacctcg
+     2581 agaccgatca caggagcgcg caccgttgga tattctcgga tcgattctgc tgacgagcgc
+     2641 accgctgctg ttcgctttcg gagtggtgga ggccggggac agcaatgggg atgtgccctg
+     2701 gtcatcaatc gctgccctgg tgggagcggc agccgccgct gcattgttcg tcaaggtgga
+     2761 acgccgagcc gcaaacccac tggttccgct gaccttcttc cgcaaccgga cacgagtgcg
+     2821 agcaaatctt gcgactgcac tgttgagctc ggcgctctca acgtcctttc tgctgttcac
+     2881 gttctatcta caggatggac tcggtctctc tccgctggaa tccggattgc tgctcctgcc
+     2941 acttgcggtg gcactagtcg tcgccgtgac cgtcgtacct cgcctcttgg ggcgctgggg
+     3001 agcgcgtgct tgcatcgtcg tgggactgag ttccgcaggg gcaggcatga tcgtgatcgc
+     3061 ggcagccgcg cagctcgaag cccccgcttg gctactaacc cccgcgatgc tcttcatcgc
+     3121 cgcaggaatg ggtttcggcc tcgttggatt gcagtacgcg gccgtgaccg aggtcaccga
+     3181 cgatgatgcc ggagtcgcat ccggcgtaca gcgagccgca gaccagctcg gtggatccgc
+     3241 aggtgtcacg gtctacgtgg gcctgggctt cgcgtcggcc cttcacggtg tatcacccta
+     3301 tgtgctaagt agcggcctcg cgatcatcgg cctctgcctt gcgaccgcca ttgtccaacg
+     3361 aatcgtaatc gtgacgcagg aacaacagac gaggacatga gcgtgccgtc gtaacccgat
+     3421 cccgaagttc ccgatgaggt gctccgtggc gacgcccggc gactcgtcag tcagccccga
+     3481 ccggtggtcg cggggcgcgc cctttgttgc gcgcaccgcg accattcacc gccctctcgg
+     3541 tccggtggcg tatgactgcg tcaaggtgat cgtggtgcgt gacggctctg cgttcttgtt
+     3601 cagcgagttt ggacagcaga cggtgaaacc cggagacgtg atcttgctcg gtgcgaacgt
+     3661 actggcagga tcggagccag agggccacat caccgtcacc acgatctatc tcgacaccga
+     3721 ctacatgctc gaccaggtgc gctggcagta cgccgcctac ctcgaagatc gactcgacgc
+     3781 gcaagagttc taatataccc ccttgccggg acaggacatt ctccgtgccg atgtgtacaa
+     3841 ccaggtcttt accctgcacg gcacggtgat gatgttttta tttgcgattc cggtgctcga
+     3901 aggtctggcg atgtatctca tacccaaaat gctcggcacc cgggatctgg cgtttcccgc
+     3961 cactgcacga ggcgtaactg ccgcgacgct gaactgtcgg taacgatctg ctcaacgcca
+     4021 gccagtgccc gtcactcccg tactaactgt cacgaacccc tgcaataact gtcacgcccc
+     4081 ctgcaataac tgtcacgccc ccctgcaata actgtcacga acccctgcaa taactgtcac
+     4141 gcccccaaac ctgcaaaccc agcaggggcg ggggctggcg gggtgttgga aaaatccatc
+     4201 catgattatc taagaataat ccactaggcg cggttatcag cgcccttgtg gggcgctgct
+     4261 gcccttgccc aatatgcccg gccagaggcc ggatagctgg tctattcgct gcgctaggct
+     4321 acacaccgcc ccaccgctgc gcggcagggg gaaaggcggg caaagcccgc taaaccccac
+     4381 accaaacccc gcagaaatac gctggagcgc ttttagccgc tttagcggcc tttcccccta
+     4441 cccgaagggt gggggcgcgt gtgcagcccc gcagggcctg tctcggtcga tcattcagcc
+     4501 cggctcatcc ttctggcgtg gcggcagacc gaacaaggcg cggtcgtggt cgcgttcaag
+     4561 gtacgcatcc attgccgcca tgagccgatc ctccggccac tcgctgctgt tcaccttggc
+     4621 caaaatcatg gcccccacca gcaccttgcg ccttgtttcg ttcttgcgct cttgctgctg
+     4681 ttcccttgcc cgcacccgct gaatttcggc attgattcgc gctcgttgtt cttcgagctt
+     4741 ggccagccga tccgccgcct tgttgctccc cttaaccatc ttgacacccc attgttaatg
+     4801 tgctgtctcg taggctatca tggaggcaca gcggcggcaa tcccgaccct actttgtagg
+     4861 ggagggcgca cttaccggtt tctcttcgag aaactggcct aacggccacc cttcgggcgg
+     4921 tgcgctctcc gagggccatt gcatggagcc gaaaagcaaa agcaacagcg aggcagcatg
+     4981 gcgatttatc accttacggc gaaaaccggc agcaggtcgg gcggccaatc ggccagggcc
+     5041 aaggccgact acatccagcg cgaaggcaag tatgcccgcg acatggatga agtcttgcac
+     5101 gccgaatccg ggcacatgcc ggagttcgtc gagcggcccg ccgactactg ggatgctgcc
+     5161 gacctgtatg aacgcgccaa tgggcggctg ttcaaggagg tcgaatttgc cctgccggtc
+     5221 gagctgaccc tcgaccagca gaaggcgctg gcgtccgagt tcgcccagca cctgaccggt
+     5281 gccgagcgcc tgccgtatac gctggccatc catgccggtg gcggcgagaa cccgcactgc
+     5341 cacctgatga tctccgagcg gatcaatgac ggcatcgagc ggcccgccgc tcagtggttc
+     5401 aagcggtaca acggcaagac cccggagaag ggcggggcac agaagaccga agcgctcaag
+     5461 cccaaggcat ggcttgagca gacccgcgag gcatgggccg accatgccaa ccgggcatta
+     5521 gagcgggctg gccacgacgc ccgcattgac cacagaacac ttgaggcgca gggcatcgag
+     5581 cgcctgcccg gtgttcacct ggggccgaac gtggtggaga tggaaggccg gggcatccgc
+     5641 accgaccggg cagacgtggc cctgaacatc gacaccgcca acgcccagat catcgactta
+     5701 caggaatacc gggaggcaat agaccatgaa cgcaatcgac agagtgaaga aatccagagg
+     5761 catcaacgag ttagcggagc agatcgaacc gctggcccag agcatggcga cactggccga
+     5821 cgaagcccgg caggtcatga gccagaccca gcaggccagc gaggcgcagg cggcggagtg
+     5881 gctgaaagcc cagcgccaga caggggcggc atgggtggag ctggccaaag agttgcggga
+     5941 ggtagccgcc gaggtgagca gcgccgcgca gagcgcccgg agcgcgtcgc gggggtggca
+     6001 ctggaagcta tggctaaccg tgatgctggc ttccatgatg cctacggtgg tgctgctgat
+     6061 cgcatcgttg ctcttgctcg acctgacgcc actgacaacc gaggacggct cgatctggct
+     6121 gcgcttggtg gcccgatgaa gaacgacagg actttgcagg ccataggccg acagctcaag
+     6181 gccatgggct gtgagcgctt cgatatcggc gtcagggacg ccaccaccgg ccagatgatg
+     6241 aaccgggaat ggtcagccgc cgaagtgctc cagaacacgc catggctcaa gcggatgaat
+     6301 gcccagggca atgacgtgta tatcaggccc gccgagcagg agcggcatgg tctggtgctg
+     6361 gtggacgacc tcagcgagtt tgacctggat gacatgaaag ccgagggccg ggagcctgcc
+     6421 ctggtagtgg aaaccagccc gaagaactat caggcatggg tcaaggtggc cgacgccgca
+     6481 ggcggtgaac ttcgggggca gattgcccgg acgctggcca gcgagtacga cgccgacccg
+     6541 gccagcgccg acagccgcca ctatggccgc ttggcgggct tcaccaaccg caaggacaag
+     6601 cacaccaccc gcgccggtta tcagccgtgg gtgctgctgc gtgaatccaa gggcaagacc
+     6661 gccaccgctg gcccggcgct ggtgcagcag gctggccagc agatcgagca ggcccagcgg
+     6721 cagcaggaga aggcccgcag gctggccagc ctcgaactgc ccgagcggca gcttagccgc
+     6781 caccggcgca cggcgctgga cgagtaccgc agcgagatgg ccgggctggt caagcgcttc
+     6841 ggtgatgacc tcagcaagtg cgactttatc gccgcgcaga agctggccag ccggggccgc
+     6901 agtgccgagg aaatcggcaa ggccatggcc gaggccagcc cagcgctggc agagcgcaag
+     6961 cccggccacg aagcggatta catcgagcgc accgtcagca aggtcatggg tctgcccagc
+     7021 gtccagcttg cgcgggccga gctggcacgg gcaccggcac cccgccagcg aggcatggac
+     7081 aggggcgggc cagatttcag catgtagtgc ttgcgttggt actcacgcct gttatactat
+     7141 gagtactcac gcacagaagg gggttttatg gaatacgaaa aaagcgcttc agggtcggtc
+     7201 tacctgatca aaagtgacaa gggctattgg ttgcccggtg gctttggtta tacgtcaaac
+     7261 aaggccgagg ctggccgctt ttcagtcgct gatatggcca gccttaacct tgacggctgc
+     7321 accttgtcct tgttccgcga agacaagcct ttcggccccg gcaagtttct cggtgactga
+     7381 tatgaaagac caaaaggaca agcagaccgg cgacctgctg gccagccctg acgctgtacg
+     7441 ccaagcgcga tatgccgagc gcatgaaggc caaagggatg cgtcagcgca agttctggct
+     7501 gaccgacgac gaatacgagg cgctgcgcga gtgcctggaa gaactcagag cggcgcaggg
+     7561 cgggggtagt gaccccgcca gcgcctaacc accaactgcc tgcaaaggag gcaatca
+//
