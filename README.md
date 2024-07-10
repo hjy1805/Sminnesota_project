@@ -19,7 +19,8 @@ Taken together, our results demonstrate a dynamic population and the emergence o
 
 | File & folder Name                  | Description                                                                                  |
 | ----------------------------------- | ---------------------------------------------------------------------------------------------|
-| `Annotated_plasmid`                 | Annotated plasmid sequence in gbk format                                                     |
+| `Annotated_plasmid`                 | Annotated InC plasmid sequence in gbk format                                                 |
+| `plasmids_info.csv`                 | Plasmid-related information with NCBI nucleotide accession                                   |
 | `plasmid_amr_vf_amrfinderplus.tsv`  | AMR genes and virulence factors detected in plasmid by AMRFinderPlus                         |
 | `plasmid_amr_vf_blast.tsv`          | AMR genes and virulence factors detected in plasmid by BLASTN against CARD & VFDB database   |
 | `External_samples_metadata.tsv`     | Metadata of external samples fetched from public database in this study                      |
@@ -38,15 +39,22 @@ Taken together, our results demonstrate a dynamic population and the emergence o
 | `metadata_processing.R`             | R script for the relevant metadata processing                                                |
 | `pvgenomic.ipynb`                   | Python script for the plasmid alignment and visualisation by pyGenomeViz                     |
 
+## Contacts
+For inquiries regarding this research, please contact:
 
-| `K_158_3.gbff`     | Annotated plasmid sequence of K_158_3             |
-| `K_160_2.gbff`     | Annotated plasmid sequence of K_160_2             |
-| `K_195_2.gbff`     | Annotated plasmid sequence of K_195_2             |
-| `K_229_3.gbff`     | Annotated plasmid sequence of K_229_3             |
+Jiayi Huang
 
+Email: jiayi.huang@kaust.edu.sa
 
+PhD student
 
+Infectious Disease Epidemiology Lab
 
+Biological and Environmental Science and Engineering (BESE) Division
+
+King Abdullah University of Science and Technology (KAUST)
+
+Thuwal, Saudi Arabia
 
 
 
