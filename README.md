@@ -16,22 +16,23 @@ Taken together, our results demonstrate a dynamic population and the emergence o
 
 ## Files Descriptions
 
-| File & folder Name                  | Description                                                                   |
-| ----------------------------------- | ----------------------------------------------------------------------------- |
-| `Annotated_plasmid`                 | Annotated plasmid sequence in gbk format                                      |
-| `External_samples_metadata.tsv`     | Metadata of external samples fetched from public database in this study       |
-| `Internal_samples_metadata.csv`     | Metadata of internal samples that were in-house sequenced in this study       |
-| `assembly_unicycler.sh`             | short-read genome assembly script             |
-| `assembly_unicycler_hybird.sh`      | Long-read hybrid genome assembly script            |
-| `assembly_qc_quast.sh`              | Genome assembly quality accession script             |
-| `mapping_snippy.sh`                 | Script for mapping short reads against reference genome             |
-| `mlst_mlst.sh`     | In silico multi-locus sequence typing (MLST) script             |
-| `run_beast2.sh`     | Script for running Bayesian Evolutionary Analysis Sampling Trees (BEAST) 2            |
-| `K_098_2.gbff`     | Annotated plasmid sequence of K_098_2             |
-| `K_105_2.gbff`     | Annotated plasmid sequence of K_105_2             |
-| `K_137_2.gbff`     | Annotated plasmid sequence of K_137_2             |
-| `K_151_2.gbff`     | Annotated plasmid sequence of K_151_2             |
-| `K_154_3.gbff`     | Annotated plasmid sequence of K_154_3             |
+| File & folder Name                  | Description                                                                        |
+| ----------------------------------- | -----------------------------------------------------------------------------------|
+| `Annotated_plasmid`                 | Annotated plasmid sequence in gbk format                                           |
+| `External_samples_metadata.tsv`     | Metadata of external samples fetched from public database in this study            |
+| `Internal_samples_metadata.csv`     | Metadata of internal samples that were in-house sequenced in this study            |
+| `assembly_unicycler.sh`             | short-read genome assembly bash script                                             |
+| `assembly_unicycler_hybird.sh`      | Long-read hybrid genome assembly bash script                                       |
+| `assembly_qc_quast.sh`              | Genome assembly quality accession bash script                                      |
+| `mapping_snippy.sh`                 | Bash script for mapping short reads against reference genome                       |
+| `mlst_mlst.sh`                      | In silico multi-locus sequence typing (MLST) bash script                           |
+| `run_gubbins.sh`                    | Bash script for filtering out polymorphic sites                                    |
+| `run_beast2.sh`                     | Bash script for running Bayesian Evolutionary Analysis Sampling Trees 2 (BEAST2)   |
+| `scan_amrfinder.sh`                 | Bash script for AMR gene & virulence factor detection by AMRFinderPlus             |
+| `typing_srst.sh`                    | Bash script for gene detection against the relevant database by srst2              |
+| `figure_plot.R`                     | R script for the relevant figure plot                                              |
+| `metadata_processing.R`             | R script for the relevant metadata processing                                      |
+| `pvgenomic.ipynb`                   | Python script for the plasmid alignment and visualisation by pyGenomeViz           |
 | `K_157_2.gbff`     | Annotated plasmid sequence of K_157_2             |
 | `K_158_3.gbff`     | Annotated plasmid sequence of K_158_3             |
 | `K_160_2.gbff`     | Annotated plasmid sequence of K_160_2             |
