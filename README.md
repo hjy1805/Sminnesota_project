@@ -16,17 +16,17 @@ Taken together, our results demonstrate a dynamic population and the emergence o
 
 ## Files Descriptions
 
-| File Name                           | Description                                                                   |
+| File & folder Name                  | Description                                                                   |
 | ----------------------------------- | ----------------------------------------------------------------------------- |
-| `Annotated_plasmid folder`     | Annotated plasmid sequence in gbk format             |
+| `Annotated_plasmid`                 | Annotated plasmid sequence in gbk format                                      |
 | `External_samples_metadata.tsv`     | Metadata of external samples fetched from public database in this study       |
 | `Internal_samples_metadata.csv`     | Metadata of internal samples that were in-house sequenced in this study       |
-| `K_002_2.gbff`     | Annotated plasmid sequence of K_002_2             |
-| `K_005_2.gbff`     | Annotated plasmid sequence of K_005_2             |
-| `K_046_2.gbff`     | Annotated plasmid sequence of K_046_2             |
-| `K_058_2.gbff`     | Annotated plasmid sequence of K_058_2             |
-| `K_069_3.gbff`     | Annotated plasmid sequence of K_069_3             |
-| `K_074_4.gbff`     | Annotated plasmid sequence of K_074_4             |
+| `assembly_unicycler.sh`             | short-read genome assembly script             |
+| `assembly_unicycler_hybird.sh`      | Long-read hybrid genome assembly script            |
+| `assembly_qc_quast.sh`              | Genome assembly quality accession script             |
+| `mapping_snippy.sh`                 | Script for mapping short reads against reference genome             |
+| `mlst_mlst.sh`     | In silico multi-locus sequence typing (MLST) script             |
+| `run_beast2.sh`     | Script for running Bayesian Evolutionary Analysis Sampling Trees (BEAST) 2            |
 | `K_098_2.gbff`     | Annotated plasmid sequence of K_098_2             |
 | `K_105_2.gbff`     | Annotated plasmid sequence of K_105_2             |
 | `K_137_2.gbff`     | Annotated plasmid sequence of K_137_2             |
