@@ -14,26 +14,31 @@ Our results indicate the rise of four clones (BAPS groups) in Saudi Arabia, thre
 ### Conclusion:
 Taken together, our results demonstrate a dynamic population and the emergence of multidrug-resistant clones for *Salmonella Minnesota*. They also highlight the variety of plasmids carrying antimicrobial resistance genes and the genomic contexts for resistance genes, as well as the genomic rearrangements in the antimicrobial resistance (AMR) regions in IncC plasmids. These changes occur in response to antimicrobial therapy in the poultry sector.
 
+
 ## Files Descriptions
 
-| File & folder Name                  | Description                                                                        |
-| ----------------------------------- | -----------------------------------------------------------------------------------|
-| `Annotated_plasmid`                 | Annotated plasmid sequence in gbk format                                           |
-| `External_samples_metadata.tsv`     | Metadata of external samples fetched from public database in this study            |
-| `Internal_samples_metadata.csv`     | Metadata of internal samples that were in-house sequenced in this study            |
-| `assembly_unicycler.sh`             | short-read genome assembly bash script                                             |
-| `assembly_unicycler_hybird.sh`      | Long-read hybrid genome assembly bash script                                       |
-| `assembly_qc_quast.sh`              | Genome assembly quality accession bash script                                      |
-| `mapping_snippy.sh`                 | Bash script for mapping short reads against reference genome                       |
-| `mlst_mlst.sh`                      | In silico multi-locus sequence typing (MLST) bash script                           |
-| `run_gubbins.sh`                    | Bash script for filtering out polymorphic sites                                    |
-| `run_beast2.sh`                     | Bash script for running Bayesian Evolutionary Analysis Sampling Trees 2 (BEAST2)   |
-| `scan_amrfinder.sh`                 | Bash script for AMR gene & virulence factor detection by AMRFinderPlus             |
-| `typing_srst.sh`                    | Bash script for gene detection against the relevant database by srst2              |
-| `figure_plot.R`                     | R script for the relevant figure plot                                              |
-| `metadata_processing.R`             | R script for the relevant metadata processing                                      |
-| `pvgenomic.ipynb`                   | Python script for the plasmid alignment and visualisation by pyGenomeViz           |
-| `K_157_2.gbff`     | Annotated plasmid sequence of K_157_2             |
+| File & folder Name                  | Description                                                                                  |
+| ----------------------------------- | ---------------------------------------------------------------------------------------------|
+| `Annotated_plasmid`                 | Annotated plasmid sequence in gbk format                                                     |
+| `plasmid_amr_vf_amrfinderplus.tsv`  | AMR genes and virulence factors detected in plasmid by AMRFinderPlus                         |
+| `plasmid_amr_vf_blast.tsv`          | AMR genes and virulence factors detected in plasmid by BLASTN against CARD & VFDB database   |
+| `External_samples_metadata.tsv`     | Metadata of external samples fetched from public database in this study                      |
+| `Internal_samples_metadata.csv`     | Metadata of internal samples that were in-house sequenced in this study                      |
+| `assembly_unicycler.sh`             | short-read genome assembly bash script                                                       |
+| `assembly_unicycler_hybird.sh`      | Long-read hybrid genome assembly bash script                                                 |
+| `assembly_qc_quast.sh`              | Genome assembly quality accession bash script                                                |
+| `call_snp_sites.sh`                 | Bash script for calling SNP sites from multiple sequence alignment                           |
+| `mapping_snippy.sh`                 | Bash script for mapping short reads against reference genome                                 |
+| `mlst_mlst.sh`                      | In silico multi-locus sequence typing (MLST) bash script                                     |
+| `run_gubbins.sh`                    | Bash script for filtering out polymorphic sites                                              |
+| `run_beast2.sh`                     | Bash script for running Bayesian Evolutionary Analysis Sampling Trees 2 (BEAST2)             |
+| `scan_amrfinder.sh`                 | Bash script for AMR gene & virulence factor detection by AMRFinderPlus                       |
+| `typing_srst.sh`                    | Bash script for gene detection against the relevant database by srst2                        |
+| `figure_plot.R`                     | R script for the relevant figure plot                                                        |
+| `metadata_processing.R`             | R script for the relevant metadata processing                                                |
+| `pvgenomic.ipynb`                   | Python script for the plasmid alignment and visualisation by pyGenomeViz                     |
+
+
 | `K_158_3.gbff`     | Annotated plasmid sequence of K_158_3             |
 | `K_160_2.gbff`     | Annotated plasmid sequence of K_160_2             |
 | `K_195_2.gbff`     | Annotated plasmid sequence of K_195_2             |
