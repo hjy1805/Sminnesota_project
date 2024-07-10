@@ -1,0 +1,498 @@
+sample	contig	gene	type
+K_002	2	TetA	AMR
+K_002	2	CMY	AMR
+K_002	2	BIL	AMR
+K_002	2	Sul	AMR
+K_002	2	APH3'	AMR
+K_002	2	CatBx	AMR
+K_002	7	QnrB	AMR
+K_003	3	ANT3''	AMR
+K_003	3	LnuF	AMR
+K_003	3	LinG	AMR
+K_003	3	AAC6'	AMR
+K_003	3	CatBx	AMR
+K_003	3	AAC3	AMR
+K_003	8	QnrB	AMR
+K_005	2	TetA	AMR
+K_005	2	FloR	AMR
+K_005	2	CMY	AMR
+K_005	2	BIL	AMR
+K_005	2	Sul	AMR
+K_005	2	ANT3''	AMR
+K_005	2	CatBx	AMR
+K_005	4	QnrB	AMR
+K_046	2	TetA	AMR
+K_046	2	Sul	AMR
+K_046	2	CatBx	AMR
+K_046	6	QnrB	AMR
+K_058	2	TetA	AMR
+K_058	2	CMY	AMR
+K_058	2	BIL	AMR
+K_058	2	APH4	AMR
+K_058	2	ANT3''	AMR
+K_058	2	LnuF	AMR
+K_058	2	LinG	AMR
+K_058	2	Sul	AMR
+K_058	2	APH3'	AMR
+K_058	2	AAC3	AMR
+K_058	2	AAC6'	AMR
+K_058	2	CatBx	AMR
+K_058	5	CTX-M	AMR
+K_058	5	CatBx	AMR
+K_058	6	APH3'	AMR
+K_058	7	TEM	AMR
+K_058	7	Dfr	AMR
+K_058	7	AAC6'	AMR
+K_058	7	ANT3''	AMR
+K_058	7	CatBx	AMR
+K_058	7	AAC3	AMR
+K_058	9	QnrB	AMR
+K_069	10	QnrB	AMR
+K_069	3	APH3'	AMR
+K_069	3	CatBx	AMR
+K_074	16	QnrB	AMR
+K_074	4	CatBx	AMR
+K_098	2	TetA	AMR
+K_098	2	CMY	AMR
+K_098	2	BIL	AMR
+K_098	2	APH4	AMR
+K_098	2	ANT3''	AMR
+K_098	2	LnuF	AMR
+K_098	2	LinG	AMR
+K_098	2	Sul	AMR
+K_098	2	APH3'	AMR
+K_098	2	AAC3	AMR
+K_098	2	AAC6'	AMR
+K_098	2	CatBx	AMR
+K_098	3	TEM	AMR
+K_098	3	Dfr	AMR
+K_098	3	AAC6'	AMR
+K_098	3	ANT3''	AMR
+K_098	3	CatBx	AMR
+K_098	3	AAC3	AMR
+K_098	5	QnrB	AMR
+K_105	2	TetA	AMR
+K_105	2	CMY	AMR
+K_105	2	BIL	AMR
+K_105	2	Sul	AMR
+K_105	2	APH3'	AMR
+K_105	2	ANT3''	AMR
+K_105	2	CatBx	AMR
+K_105	6	QnrB	AMR
+K_117	5	QnrB	AMR
+K_123	3	ANT3''	AMR
+K_123	4	QnrB	AMR
+K_137	2	APH3'	AMR
+K_137	2	CatBx	AMR
+K_137	3	ANT3''	AMR
+K_137	4	QnrB	AMR
+K_151	2	TetA	AMR
+K_151	2	CMY	AMR
+K_151	2	BIL	AMR
+K_151	2	Sul	AMR
+K_151	2	APH3'	AMR
+K_151	2	CatBx	AMR
+K_151	9	QnrB	AMR
+K_154	13	QnrB	AMR
+K_154	3	TetA	AMR
+K_154	3	CMY	AMR
+K_154	3	BIL	AMR
+K_154	3	CTX-M	AMR
+K_154	3	Sul	AMR
+K_154	3	APH3'	AMR
+K_154	3	ANT3''	AMR
+K_154	3	CatBx	AMR
+K_157	2	TetA	AMR
+K_157	2	CMY	AMR
+K_157	2	BIL	AMR
+K_157	2	CTX-M	AMR
+K_157	2	Sul	AMR
+K_157	2	APH3'	AMR
+K_157	2	CatBx	AMR
+K_157	6	QnrB	AMR
+K_158	12	QnrB	AMR
+K_158	3	APH3'	AMR
+K_158	3	CatBx	AMR
+K_160	2	TetA	AMR
+K_160	2	CMY	AMR
+K_160	2	BIL	AMR
+K_160	2	Sul	AMR
+K_160	2	APH3'	AMR
+K_160	2	CatBx	AMR
+K_160	6	QnrB	AMR
+K_176	10	QnrB	AMR
+K_195	2	TetA	AMR
+K_195	2	CMY	AMR
+K_195	2	BIL	AMR
+K_195	2	CTX-M	AMR
+K_195	2	Sul	AMR
+K_195	2	APH3'	AMR
+K_195	2	CatBx	AMR
+K_195	7	QnrB	AMR
+K_229	10	QnrB	AMR
+K_229	3	TetA	AMR
+K_229	3	CMY	AMR
+K_229	3	BIL	AMR
+K_229	3	CTX-M	AMR
+K_229	3	Sul	AMR
+K_229	3	APH3'	AMR
+K_229	3	ANT3''	AMR
+K_229	3	CatBx	AMR
+K_002	2	VFG000362(gb|WP_002212777) (irp1) yersiniabactin biosynthetic protein Irp1 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_002	2	VFG044329(gb|WP_015874964) (irp1) yersiniabactin polyketide synthase HMWP1 [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_002	2	VFG000363(gb|WP_002212775) (irp2) yersiniabactin biosynthetic protein Irp2 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_002	2	VFG044328(gb|WP_015874963) (irp2) yersiniabactin non-ribosomal peptide synthetase HMWP2 [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_002	2	VFG000358(gb|WP_002212885) (fyuA/psn) pesticin/yersiniabactin receptor protein [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_002	2	VFG044333(gb|WP_015874968) (fyuA) yersiniabactin receptor FyuA [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_002	2	VFG000366(gb|WP_002212761) (ybtQ) yersiniabactin ABC transporter ATP-binding/permease protein YbtQ [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_002	2	VFG044325(gb|WP_002212761) (ybtQ) yersiniabactin ABC transporter ATP-binding/permease protein YbtQ [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_002	2	VFG044326(gb|WP_001327262) (ybtP) yersiniabactin ABC transporter ATP-binding/permease protein YbtP [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_002	2	VFG000365(gb|WP_002214412) (ybtP) yersiniabactin ABC transporter ATP-binding/permease protein YbtP [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_002	2	VFG000359(gb|WP_001088826) (ybtE) yersiniabactin siderophore biosynthetic protein [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_002	2	VFG044332(gb|WP_015874967) (ybtE) yersiniabactin biosynthesis salycil-AMP ligase YbtE [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_002	2	VFG000367(gb|WP_001286280) (ybtX) putative signal transducer [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_002	2	VFG044324(gb|WP_032447693) (ybtX) yersiniabactin-associated zinc MFS transporter YbtX [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_002	2	VFG000361(gb|WP_000982866) (ybtU) yersiniabactin biosynthetic protein YbtU [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_002	2	VFG044330(gb|WP_032447695) (ybtU) yersiniabactin biosynthesis oxidoreductase YbtU [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_002	2	VFG000368(gb|WP_000703040) (ybtS) salicylate synthase Irp9 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_002	2	VFG044323(gb|WP_015874960) (ybtS) yersiniabactin biosynthesis salicylate synthase YbtS [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_002	2	VFG000364(gb|WP_000140406) (ybtA) transcriptional regulator YbtA [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_002	2	VFG044327(gb|WP_000140406) (ybtA) yersiniabactin transcriptional regulator YbtA [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_002	2	VFG000360(gb|WP_002212799) (ybtT) type II thioesterase YbtT [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_002	2	VFG044331(gb|WP_015874966) (ybtT) type II thioesterase YbtT [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_005	2	VFG000362(gb|WP_002212777) (irp1) yersiniabactin biosynthetic protein Irp1 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_005	2	VFG044329(gb|WP_015874964) (irp1) yersiniabactin polyketide synthase HMWP1 [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_005	2	VFG000363(gb|WP_002212775) (irp2) yersiniabactin biosynthetic protein Irp2 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_005	2	VFG044328(gb|WP_015874963) (irp2) yersiniabactin non-ribosomal peptide synthetase HMWP2 [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_005	2	VFG000358(gb|WP_002212885) (fyuA/psn) pesticin/yersiniabactin receptor protein [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_005	2	VFG044333(gb|WP_015874968) (fyuA) yersiniabactin receptor FyuA [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_005	2	VFG000366(gb|WP_002212761) (ybtQ) yersiniabactin ABC transporter ATP-binding/permease protein YbtQ [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_005	2	VFG044325(gb|WP_002212761) (ybtQ) yersiniabactin ABC transporter ATP-binding/permease protein YbtQ [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_005	2	VFG044326(gb|WP_001327262) (ybtP) yersiniabactin ABC transporter ATP-binding/permease protein YbtP [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_005	2	VFG000365(gb|WP_002214412) (ybtP) yersiniabactin ABC transporter ATP-binding/permease protein YbtP [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_005	2	VFG000359(gb|WP_001088826) (ybtE) yersiniabactin siderophore biosynthetic protein [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_005	2	VFG044332(gb|WP_015874967) (ybtE) yersiniabactin biosynthesis salycil-AMP ligase YbtE [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_005	2	VFG000367(gb|WP_001286280) (ybtX) putative signal transducer [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_005	2	VFG044324(gb|WP_032447693) (ybtX) yersiniabactin-associated zinc MFS transporter YbtX [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_005	2	VFG000361(gb|WP_000982866) (ybtU) yersiniabactin biosynthetic protein YbtU [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_005	2	VFG044330(gb|WP_032447695) (ybtU) yersiniabactin biosynthesis oxidoreductase YbtU [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_005	2	VFG000368(gb|WP_000703040) (ybtS) salicylate synthase Irp9 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_005	2	VFG044323(gb|WP_015874960) (ybtS) yersiniabactin biosynthesis salicylate synthase YbtS [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_005	2	VFG000364(gb|WP_000140406) (ybtA) transcriptional regulator YbtA [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_005	2	VFG044327(gb|WP_000140406) (ybtA) yersiniabactin transcriptional regulator YbtA [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_005	2	VFG000360(gb|WP_002212799) (ybtT) type II thioesterase YbtT [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_005	2	VFG044331(gb|WP_015874966) (ybtT) type II thioesterase YbtT [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_046	2	VFG000362(gb|WP_002212777) (irp1) yersiniabactin biosynthetic protein Irp1 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_046	2	VFG044329(gb|WP_015874964) (irp1) yersiniabactin polyketide synthase HMWP1 [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_046	2	VFG000363(gb|WP_002212775) (irp2) yersiniabactin biosynthetic protein Irp2 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_046	2	VFG044328(gb|WP_015874963) (irp2) yersiniabactin non-ribosomal peptide synthetase HMWP2 [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_046	2	VFG000358(gb|WP_002212885) (fyuA/psn) pesticin/yersiniabactin receptor protein [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_046	2	VFG044333(gb|WP_015874968) (fyuA) yersiniabactin receptor FyuA [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_046	2	VFG000366(gb|WP_002212761) (ybtQ) yersiniabactin ABC transporter ATP-binding/permease protein YbtQ [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_046	2	VFG044325(gb|WP_002212761) (ybtQ) yersiniabactin ABC transporter ATP-binding/permease protein YbtQ [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_046	2	VFG044326(gb|WP_001327262) (ybtP) yersiniabactin ABC transporter ATP-binding/permease protein YbtP [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_046	2	VFG000365(gb|WP_002214412) (ybtP) yersiniabactin ABC transporter ATP-binding/permease protein YbtP [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_046	2	VFG000359(gb|WP_001088826) (ybtE) yersiniabactin siderophore biosynthetic protein [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_046	2	VFG044332(gb|WP_015874967) (ybtE) yersiniabactin biosynthesis salycil-AMP ligase YbtE [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_046	2	VFG000367(gb|WP_001286280) (ybtX) putative signal transducer [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_046	2	VFG044324(gb|WP_032447693) (ybtX) yersiniabactin-associated zinc MFS transporter YbtX [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_046	2	VFG000361(gb|WP_000982866) (ybtU) yersiniabactin biosynthetic protein YbtU [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_046	2	VFG044330(gb|WP_032447695) (ybtU) yersiniabactin biosynthesis oxidoreductase YbtU [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_046	2	VFG000368(gb|WP_000703040) (ybtS) salicylate synthase Irp9 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_046	2	VFG044323(gb|WP_015874960) (ybtS) yersiniabactin biosynthesis salicylate synthase YbtS [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_046	2	VFG000364(gb|WP_000140406) (ybtA) transcriptional regulator YbtA [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_046	2	VFG044327(gb|WP_000140406) (ybtA) yersiniabactin transcriptional regulator YbtA [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_046	2	VFG000360(gb|WP_002212799) (ybtT) type II thioesterase YbtT [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_046	2	VFG044331(gb|WP_015874966) (ybtT) type II thioesterase YbtT [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_058	2	VFG000362(gb|WP_002212777) (irp1) yersiniabactin biosynthetic protein Irp1 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_058	2	VFG044329(gb|WP_015874964) (irp1) yersiniabactin polyketide synthase HMWP1 [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_058	2	VFG000363(gb|WP_002212775) (irp2) yersiniabactin biosynthetic protein Irp2 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_058	2	VFG044328(gb|WP_015874963) (irp2) yersiniabactin non-ribosomal peptide synthetase HMWP2 [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_058	2	VFG000358(gb|WP_002212885) (fyuA/psn) pesticin/yersiniabactin receptor protein [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_058	2	VFG044333(gb|WP_015874968) (fyuA) yersiniabactin receptor FyuA [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_058	2	VFG000366(gb|WP_002212761) (ybtQ) yersiniabactin ABC transporter ATP-binding/permease protein YbtQ [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_058	2	VFG044325(gb|WP_002212761) (ybtQ) yersiniabactin ABC transporter ATP-binding/permease protein YbtQ [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_058	2	VFG044326(gb|WP_001327262) (ybtP) yersiniabactin ABC transporter ATP-binding/permease protein YbtP [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_058	2	VFG000365(gb|WP_002214412) (ybtP) yersiniabactin ABC transporter ATP-binding/permease protein YbtP [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_058	2	VFG000359(gb|WP_001088826) (ybtE) yersiniabactin siderophore biosynthetic protein [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_058	2	VFG044332(gb|WP_015874967) (ybtE) yersiniabactin biosynthesis salycil-AMP ligase YbtE [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_058	2	VFG000367(gb|WP_001286280) (ybtX) putative signal transducer [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_058	2	VFG044324(gb|WP_032447693) (ybtX) yersiniabactin-associated zinc MFS transporter YbtX [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_058	2	VFG000361(gb|WP_000982866) (ybtU) yersiniabactin biosynthetic protein YbtU [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_058	2	VFG044330(gb|WP_032447695) (ybtU) yersiniabactin biosynthesis oxidoreductase YbtU [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_058	2	VFG000368(gb|WP_000703040) (ybtS) salicylate synthase Irp9 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_058	2	VFG044323(gb|WP_015874960) (ybtS) yersiniabactin biosynthesis salicylate synthase YbtS [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_058	2	VFG000364(gb|WP_000140406) (ybtA) transcriptional regulator YbtA [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_058	2	VFG044327(gb|WP_000140406) (ybtA) yersiniabactin transcriptional regulator YbtA [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_058	2	VFG000360(gb|WP_002212799) (ybtT) type II thioesterase YbtT [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_058	2	VFG044331(gb|WP_015874966) (ybtT) type II thioesterase YbtT [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_058	5	VFG012865 (ipaH) invasion plasmid antigen IpaH [TTSS secreted effectors (VF0978) - Effector delivery system (VFC0086)] [Shigella flexneri 2a str. 301]	VF
+K_058	6	VFG001445(gb|AAA92657) (AAA92657) unknown protein [TraJ (VF0241) - Invasion (VFC0083)] [Escherichia coli]	VF
+K_069	3	VFG000362(gb|WP_002212777) (irp1) yersiniabactin biosynthetic protein Irp1 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_069	3	VFG044329(gb|WP_015874964) (irp1) yersiniabactin polyketide synthase HMWP1 [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_069	3	VFG000363(gb|WP_002212775) (irp2) yersiniabactin biosynthetic protein Irp2 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_069	3	VFG044328(gb|WP_015874963) (irp2) yersiniabactin non-ribosomal peptide synthetase HMWP2 [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_069	3	VFG000358(gb|WP_002212885) (fyuA/psn) pesticin/yersiniabactin receptor protein [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_069	3	VFG044333(gb|WP_015874968) (fyuA) yersiniabactin receptor FyuA [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_069	3	VFG000366(gb|WP_002212761) (ybtQ) yersiniabactin ABC transporter ATP-binding/permease protein YbtQ [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_069	3	VFG044325(gb|WP_002212761) (ybtQ) yersiniabactin ABC transporter ATP-binding/permease protein YbtQ [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_069	3	VFG044326(gb|WP_001327262) (ybtP) yersiniabactin ABC transporter ATP-binding/permease protein YbtP [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_069	3	VFG000365(gb|WP_002214412) (ybtP) yersiniabactin ABC transporter ATP-binding/permease protein YbtP [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_069	3	VFG000359(gb|WP_001088826) (ybtE) yersiniabactin siderophore biosynthetic protein [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_069	3	VFG044332(gb|WP_015874967) (ybtE) yersiniabactin biosynthesis salycil-AMP ligase YbtE [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_069	3	VFG000367(gb|WP_001286280) (ybtX) putative signal transducer [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_069	3	VFG044324(gb|WP_032447693) (ybtX) yersiniabactin-associated zinc MFS transporter YbtX [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_069	3	VFG000361(gb|WP_000982866) (ybtU) yersiniabactin biosynthetic protein YbtU [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_069	3	VFG044330(gb|WP_032447695) (ybtU) yersiniabactin biosynthesis oxidoreductase YbtU [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_069	3	VFG000368(gb|WP_000703040) (ybtS) salicylate synthase Irp9 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_069	3	VFG044323(gb|WP_015874960) (ybtS) yersiniabactin biosynthesis salicylate synthase YbtS [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_069	3	VFG000364(gb|WP_000140406) (ybtA) transcriptional regulator YbtA [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_069	3	VFG044327(gb|WP_000140406) (ybtA) yersiniabactin transcriptional regulator YbtA [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_069	3	VFG000360(gb|WP_002212799) (ybtT) type II thioesterase YbtT [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_069	3	VFG044331(gb|WP_015874966) (ybtT) type II thioesterase YbtT [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_074	4	VFG000362(gb|WP_002212777) (irp1) yersiniabactin biosynthetic protein Irp1 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_074	4	VFG044329(gb|WP_015874964) (irp1) yersiniabactin polyketide synthase HMWP1 [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_074	4	VFG000363(gb|WP_002212775) (irp2) yersiniabactin biosynthetic protein Irp2 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_074	4	VFG044328(gb|WP_015874963) (irp2) yersiniabactin non-ribosomal peptide synthetase HMWP2 [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_074	4	VFG000358(gb|WP_002212885) (fyuA/psn) pesticin/yersiniabactin receptor protein [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_074	4	VFG044333(gb|WP_015874968) (fyuA) yersiniabactin receptor FyuA [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_074	4	VFG000366(gb|WP_002212761) (ybtQ) yersiniabactin ABC transporter ATP-binding/permease protein YbtQ [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_074	4	VFG044325(gb|WP_002212761) (ybtQ) yersiniabactin ABC transporter ATP-binding/permease protein YbtQ [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_074	4	VFG044326(gb|WP_001327262) (ybtP) yersiniabactin ABC transporter ATP-binding/permease protein YbtP [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_074	4	VFG000365(gb|WP_002214412) (ybtP) yersiniabactin ABC transporter ATP-binding/permease protein YbtP [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_074	4	VFG000359(gb|WP_001088826) (ybtE) yersiniabactin siderophore biosynthetic protein [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_074	4	VFG044332(gb|WP_015874967) (ybtE) yersiniabactin biosynthesis salycil-AMP ligase YbtE [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_074	4	VFG000367(gb|WP_001286280) (ybtX) putative signal transducer [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_074	4	VFG044324(gb|WP_032447693) (ybtX) yersiniabactin-associated zinc MFS transporter YbtX [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_074	4	VFG000361(gb|WP_000982866) (ybtU) yersiniabactin biosynthetic protein YbtU [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_074	4	VFG044330(gb|WP_032447695) (ybtU) yersiniabactin biosynthesis oxidoreductase YbtU [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_074	4	VFG000368(gb|WP_000703040) (ybtS) salicylate synthase Irp9 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_074	4	VFG044323(gb|WP_015874960) (ybtS) yersiniabactin biosynthesis salicylate synthase YbtS [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_074	4	VFG000364(gb|WP_000140406) (ybtA) transcriptional regulator YbtA [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_074	4	VFG044327(gb|WP_000140406) (ybtA) yersiniabactin transcriptional regulator YbtA [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_074	4	VFG000360(gb|WP_002212799) (ybtT) type II thioesterase YbtT [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_074	4	VFG044331(gb|WP_015874966) (ybtT) type II thioesterase YbtT [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_098	2	VFG000362(gb|WP_002212777) (irp1) yersiniabactin biosynthetic protein Irp1 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_098	2	VFG044329(gb|WP_015874964) (irp1) yersiniabactin polyketide synthase HMWP1 [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_098	2	VFG000363(gb|WP_002212775) (irp2) yersiniabactin biosynthetic protein Irp2 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_098	2	VFG044328(gb|WP_015874963) (irp2) yersiniabactin non-ribosomal peptide synthetase HMWP2 [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_098	2	VFG000358(gb|WP_002212885) (fyuA/psn) pesticin/yersiniabactin receptor protein [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_098	2	VFG044333(gb|WP_015874968) (fyuA) yersiniabactin receptor FyuA [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_098	2	VFG000366(gb|WP_002212761) (ybtQ) yersiniabactin ABC transporter ATP-binding/permease protein YbtQ [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_098	2	VFG044325(gb|WP_002212761) (ybtQ) yersiniabactin ABC transporter ATP-binding/permease protein YbtQ [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_098	2	VFG044326(gb|WP_001327262) (ybtP) yersiniabactin ABC transporter ATP-binding/permease protein YbtP [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_098	2	VFG000365(gb|WP_002214412) (ybtP) yersiniabactin ABC transporter ATP-binding/permease protein YbtP [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_098	2	VFG000359(gb|WP_001088826) (ybtE) yersiniabactin siderophore biosynthetic protein [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_098	2	VFG044332(gb|WP_015874967) (ybtE) yersiniabactin biosynthesis salycil-AMP ligase YbtE [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_098	2	VFG000367(gb|WP_001286280) (ybtX) putative signal transducer [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_098	2	VFG044324(gb|WP_032447693) (ybtX) yersiniabactin-associated zinc MFS transporter YbtX [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_098	2	VFG000361(gb|WP_000982866) (ybtU) yersiniabactin biosynthetic protein YbtU [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_098	2	VFG044330(gb|WP_032447695) (ybtU) yersiniabactin biosynthesis oxidoreductase YbtU [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_098	2	VFG000368(gb|WP_000703040) (ybtS) salicylate synthase Irp9 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_098	2	VFG044323(gb|WP_015874960) (ybtS) yersiniabactin biosynthesis salicylate synthase YbtS [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_098	2	VFG000364(gb|WP_000140406) (ybtA) transcriptional regulator YbtA [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_098	2	VFG044327(gb|WP_000140406) (ybtA) yersiniabactin transcriptional regulator YbtA [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_098	2	VFG000360(gb|WP_002212799) (ybtT) type II thioesterase YbtT [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_098	2	VFG044331(gb|WP_015874966) (ybtT) type II thioesterase YbtT [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_105	2	VFG000362(gb|WP_002212777) (irp1) yersiniabactin biosynthetic protein Irp1 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_105	2	VFG044329(gb|WP_015874964) (irp1) yersiniabactin polyketide synthase HMWP1 [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_105	2	VFG000363(gb|WP_002212775) (irp2) yersiniabactin biosynthetic protein Irp2 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_105	2	VFG044328(gb|WP_015874963) (irp2) yersiniabactin non-ribosomal peptide synthetase HMWP2 [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_105	2	VFG000358(gb|WP_002212885) (fyuA/psn) pesticin/yersiniabactin receptor protein [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_105	2	VFG044333(gb|WP_015874968) (fyuA) yersiniabactin receptor FyuA [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_105	2	VFG000366(gb|WP_002212761) (ybtQ) yersiniabactin ABC transporter ATP-binding/permease protein YbtQ [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_105	2	VFG044325(gb|WP_002212761) (ybtQ) yersiniabactin ABC transporter ATP-binding/permease protein YbtQ [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_105	2	VFG044326(gb|WP_001327262) (ybtP) yersiniabactin ABC transporter ATP-binding/permease protein YbtP [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_105	2	VFG000365(gb|WP_002214412) (ybtP) yersiniabactin ABC transporter ATP-binding/permease protein YbtP [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_105	2	VFG000359(gb|WP_001088826) (ybtE) yersiniabactin siderophore biosynthetic protein [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_105	2	VFG044332(gb|WP_015874967) (ybtE) yersiniabactin biosynthesis salycil-AMP ligase YbtE [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_105	2	VFG000367(gb|WP_001286280) (ybtX) putative signal transducer [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_105	2	VFG044324(gb|WP_032447693) (ybtX) yersiniabactin-associated zinc MFS transporter YbtX [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_105	2	VFG000361(gb|WP_000982866) (ybtU) yersiniabactin biosynthetic protein YbtU [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_105	2	VFG044330(gb|WP_032447695) (ybtU) yersiniabactin biosynthesis oxidoreductase YbtU [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_105	2	VFG000368(gb|WP_000703040) (ybtS) salicylate synthase Irp9 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_105	2	VFG044323(gb|WP_015874960) (ybtS) yersiniabactin biosynthesis salicylate synthase YbtS [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_105	2	VFG000364(gb|WP_000140406) (ybtA) transcriptional regulator YbtA [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_105	2	VFG044327(gb|WP_000140406) (ybtA) yersiniabactin transcriptional regulator YbtA [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_105	2	VFG000360(gb|WP_002212799) (ybtT) type II thioesterase YbtT [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_105	2	VFG044331(gb|WP_015874966) (ybtT) type II thioesterase YbtT [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_137	2	VFG000362(gb|WP_002212777) (irp1) yersiniabactin biosynthetic protein Irp1 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_137	2	VFG044329(gb|WP_015874964) (irp1) yersiniabactin polyketide synthase HMWP1 [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_137	2	VFG000363(gb|WP_002212775) (irp2) yersiniabactin biosynthetic protein Irp2 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_137	2	VFG044328(gb|WP_015874963) (irp2) yersiniabactin non-ribosomal peptide synthetase HMWP2 [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_137	2	VFG000358(gb|WP_002212885) (fyuA/psn) pesticin/yersiniabactin receptor protein [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_137	2	VFG044333(gb|WP_015874968) (fyuA) yersiniabactin receptor FyuA [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_137	2	VFG000366(gb|WP_002212761) (ybtQ) yersiniabactin ABC transporter ATP-binding/permease protein YbtQ [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_137	2	VFG044325(gb|WP_002212761) (ybtQ) yersiniabactin ABC transporter ATP-binding/permease protein YbtQ [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_137	2	VFG044326(gb|WP_001327262) (ybtP) yersiniabactin ABC transporter ATP-binding/permease protein YbtP [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_137	2	VFG000365(gb|WP_002214412) (ybtP) yersiniabactin ABC transporter ATP-binding/permease protein YbtP [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_137	2	VFG000359(gb|WP_001088826) (ybtE) yersiniabactin siderophore biosynthetic protein [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_137	2	VFG044332(gb|WP_015874967) (ybtE) yersiniabactin biosynthesis salycil-AMP ligase YbtE [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_137	2	VFG000367(gb|WP_001286280) (ybtX) putative signal transducer [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_137	2	VFG044324(gb|WP_032447693) (ybtX) yersiniabactin-associated zinc MFS transporter YbtX [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_137	2	VFG000361(gb|WP_000982866) (ybtU) yersiniabactin biosynthetic protein YbtU [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_137	2	VFG044330(gb|WP_032447695) (ybtU) yersiniabactin biosynthesis oxidoreductase YbtU [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_137	2	VFG000368(gb|WP_000703040) (ybtS) salicylate synthase Irp9 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_137	2	VFG044323(gb|WP_015874960) (ybtS) yersiniabactin biosynthesis salicylate synthase YbtS [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_137	2	VFG000364(gb|WP_000140406) (ybtA) transcriptional regulator YbtA [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_137	2	VFG044327(gb|WP_000140406) (ybtA) yersiniabactin transcriptional regulator YbtA [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_137	2	VFG000360(gb|WP_002212799) (ybtT) type II thioesterase YbtT [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_137	2	VFG044331(gb|WP_015874966) (ybtT) type II thioesterase YbtT [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_151	2	VFG000362(gb|WP_002212777) (irp1) yersiniabactin biosynthetic protein Irp1 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_151	2	VFG044329(gb|WP_015874964) (irp1) yersiniabactin polyketide synthase HMWP1 [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_151	2	VFG000363(gb|WP_002212775) (irp2) yersiniabactin biosynthetic protein Irp2 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_151	2	VFG044328(gb|WP_015874963) (irp2) yersiniabactin non-ribosomal peptide synthetase HMWP2 [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_151	2	VFG000358(gb|WP_002212885) (fyuA/psn) pesticin/yersiniabactin receptor protein [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_151	2	VFG044333(gb|WP_015874968) (fyuA) yersiniabactin receptor FyuA [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_151	2	VFG000366(gb|WP_002212761) (ybtQ) yersiniabactin ABC transporter ATP-binding/permease protein YbtQ [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_151	2	VFG044325(gb|WP_002212761) (ybtQ) yersiniabactin ABC transporter ATP-binding/permease protein YbtQ [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_151	2	VFG044326(gb|WP_001327262) (ybtP) yersiniabactin ABC transporter ATP-binding/permease protein YbtP [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_151	2	VFG000365(gb|WP_002214412) (ybtP) yersiniabactin ABC transporter ATP-binding/permease protein YbtP [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_151	2	VFG000359(gb|WP_001088826) (ybtE) yersiniabactin siderophore biosynthetic protein [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_151	2	VFG044332(gb|WP_015874967) (ybtE) yersiniabactin biosynthesis salycil-AMP ligase YbtE [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_151	2	VFG000367(gb|WP_001286280) (ybtX) putative signal transducer [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_151	2	VFG044324(gb|WP_032447693) (ybtX) yersiniabactin-associated zinc MFS transporter YbtX [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_151	2	VFG000361(gb|WP_000982866) (ybtU) yersiniabactin biosynthetic protein YbtU [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_151	2	VFG044330(gb|WP_032447695) (ybtU) yersiniabactin biosynthesis oxidoreductase YbtU [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_151	2	VFG000368(gb|WP_000703040) (ybtS) salicylate synthase Irp9 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_151	2	VFG044323(gb|WP_015874960) (ybtS) yersiniabactin biosynthesis salicylate synthase YbtS [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_151	2	VFG000364(gb|WP_000140406) (ybtA) transcriptional regulator YbtA [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_151	2	VFG044327(gb|WP_000140406) (ybtA) yersiniabactin transcriptional regulator YbtA [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_151	2	VFG000360(gb|WP_002212799) (ybtT) type II thioesterase YbtT [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_151	2	VFG044331(gb|WP_015874966) (ybtT) type II thioesterase YbtT [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_154	3	VFG000362(gb|WP_002212777) (irp1) yersiniabactin biosynthetic protein Irp1 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_154	3	VFG044329(gb|WP_015874964) (irp1) yersiniabactin polyketide synthase HMWP1 [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_154	3	VFG000363(gb|WP_002212775) (irp2) yersiniabactin biosynthetic protein Irp2 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_154	3	VFG044328(gb|WP_015874963) (irp2) yersiniabactin non-ribosomal peptide synthetase HMWP2 [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_154	3	VFG000358(gb|WP_002212885) (fyuA/psn) pesticin/yersiniabactin receptor protein [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_154	3	VFG044333(gb|WP_015874968) (fyuA) yersiniabactin receptor FyuA [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_154	3	VFG000366(gb|WP_002212761) (ybtQ) yersiniabactin ABC transporter ATP-binding/permease protein YbtQ [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_154	3	VFG044325(gb|WP_002212761) (ybtQ) yersiniabactin ABC transporter ATP-binding/permease protein YbtQ [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_154	3	VFG044326(gb|WP_001327262) (ybtP) yersiniabactin ABC transporter ATP-binding/permease protein YbtP [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_154	3	VFG000365(gb|WP_002214412) (ybtP) yersiniabactin ABC transporter ATP-binding/permease protein YbtP [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_154	3	VFG000359(gb|WP_001088826) (ybtE) yersiniabactin siderophore biosynthetic protein [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_154	3	VFG044332(gb|WP_015874967) (ybtE) yersiniabactin biosynthesis salycil-AMP ligase YbtE [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_154	3	VFG000367(gb|WP_001286280) (ybtX) putative signal transducer [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_154	3	VFG044324(gb|WP_032447693) (ybtX) yersiniabactin-associated zinc MFS transporter YbtX [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_154	3	VFG000361(gb|WP_000982866) (ybtU) yersiniabactin biosynthetic protein YbtU [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_154	3	VFG044330(gb|WP_032447695) (ybtU) yersiniabactin biosynthesis oxidoreductase YbtU [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_154	3	VFG000368(gb|WP_000703040) (ybtS) salicylate synthase Irp9 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_154	3	VFG044323(gb|WP_015874960) (ybtS) yersiniabactin biosynthesis salicylate synthase YbtS [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_154	3	VFG012865 (ipaH) invasion plasmid antigen IpaH [TTSS secreted effectors (VF0978) - Effector delivery system (VFC0086)] [Shigella flexneri 2a str. 301]	VF
+K_154	3	VFG000364(gb|WP_000140406) (ybtA) transcriptional regulator YbtA [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_154	3	VFG044327(gb|WP_000140406) (ybtA) yersiniabactin transcriptional regulator YbtA [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_154	3	VFG000360(gb|WP_002212799) (ybtT) type II thioesterase YbtT [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_154	3	VFG044331(gb|WP_015874966) (ybtT) type II thioesterase YbtT [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_157	2	VFG000362(gb|WP_002212777) (irp1) yersiniabactin biosynthetic protein Irp1 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_157	2	VFG044329(gb|WP_015874964) (irp1) yersiniabactin polyketide synthase HMWP1 [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_157	2	VFG000363(gb|WP_002212775) (irp2) yersiniabactin biosynthetic protein Irp2 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_157	2	VFG044328(gb|WP_015874963) (irp2) yersiniabactin non-ribosomal peptide synthetase HMWP2 [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_157	2	VFG000358(gb|WP_002212885) (fyuA/psn) pesticin/yersiniabactin receptor protein [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_157	2	VFG044333(gb|WP_015874968) (fyuA) yersiniabactin receptor FyuA [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_157	2	VFG000366(gb|WP_002212761) (ybtQ) yersiniabactin ABC transporter ATP-binding/permease protein YbtQ [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_157	2	VFG044325(gb|WP_002212761) (ybtQ) yersiniabactin ABC transporter ATP-binding/permease protein YbtQ [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_157	2	VFG044326(gb|WP_001327262) (ybtP) yersiniabactin ABC transporter ATP-binding/permease protein YbtP [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_157	2	VFG000365(gb|WP_002214412) (ybtP) yersiniabactin ABC transporter ATP-binding/permease protein YbtP [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_157	2	VFG000359(gb|WP_001088826) (ybtE) yersiniabactin siderophore biosynthetic protein [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_157	2	VFG044332(gb|WP_015874967) (ybtE) yersiniabactin biosynthesis salycil-AMP ligase YbtE [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_157	2	VFG000367(gb|WP_001286280) (ybtX) putative signal transducer [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_157	2	VFG044324(gb|WP_032447693) (ybtX) yersiniabactin-associated zinc MFS transporter YbtX [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_157	2	VFG000361(gb|WP_000982866) (ybtU) yersiniabactin biosynthetic protein YbtU [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_157	2	VFG044330(gb|WP_032447695) (ybtU) yersiniabactin biosynthesis oxidoreductase YbtU [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_157	2	VFG000368(gb|WP_000703040) (ybtS) salicylate synthase Irp9 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_157	2	VFG044323(gb|WP_015874960) (ybtS) yersiniabactin biosynthesis salicylate synthase YbtS [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_157	2	VFG012865 (ipaH) invasion plasmid antigen IpaH [TTSS secreted effectors (VF0978) - Effector delivery system (VFC0086)] [Shigella flexneri 2a str. 301]	VF
+K_157	2	VFG000364(gb|WP_000140406) (ybtA) transcriptional regulator YbtA [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_157	2	VFG044327(gb|WP_000140406) (ybtA) yersiniabactin transcriptional regulator YbtA [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_157	2	VFG000360(gb|WP_002212799) (ybtT) type II thioesterase YbtT [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_157	2	VFG044331(gb|WP_015874966) (ybtT) type II thioesterase YbtT [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_158	3	VFG000362(gb|WP_002212777) (irp1) yersiniabactin biosynthetic protein Irp1 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_158	3	VFG044329(gb|WP_015874964) (irp1) yersiniabactin polyketide synthase HMWP1 [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_158	3	VFG000363(gb|WP_002212775) (irp2) yersiniabactin biosynthetic protein Irp2 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_158	3	VFG044328(gb|WP_015874963) (irp2) yersiniabactin non-ribosomal peptide synthetase HMWP2 [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_158	3	VFG000358(gb|WP_002212885) (fyuA/psn) pesticin/yersiniabactin receptor protein [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_158	3	VFG044333(gb|WP_015874968) (fyuA) yersiniabactin receptor FyuA [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_158	3	VFG000366(gb|WP_002212761) (ybtQ) yersiniabactin ABC transporter ATP-binding/permease protein YbtQ [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_158	3	VFG044325(gb|WP_002212761) (ybtQ) yersiniabactin ABC transporter ATP-binding/permease protein YbtQ [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_158	3	VFG044326(gb|WP_001327262) (ybtP) yersiniabactin ABC transporter ATP-binding/permease protein YbtP [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_158	3	VFG000365(gb|WP_002214412) (ybtP) yersiniabactin ABC transporter ATP-binding/permease protein YbtP [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_158	3	VFG000359(gb|WP_001088826) (ybtE) yersiniabactin siderophore biosynthetic protein [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_158	3	VFG044332(gb|WP_015874967) (ybtE) yersiniabactin biosynthesis salycil-AMP ligase YbtE [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_158	3	VFG000367(gb|WP_001286280) (ybtX) putative signal transducer [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_158	3	VFG044324(gb|WP_032447693) (ybtX) yersiniabactin-associated zinc MFS transporter YbtX [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_158	3	VFG000361(gb|WP_000982866) (ybtU) yersiniabactin biosynthetic protein YbtU [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_158	3	VFG044330(gb|WP_032447695) (ybtU) yersiniabactin biosynthesis oxidoreductase YbtU [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_158	3	VFG000368(gb|WP_000703040) (ybtS) salicylate synthase Irp9 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_158	3	VFG044323(gb|WP_015874960) (ybtS) yersiniabactin biosynthesis salicylate synthase YbtS [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_158	3	VFG000364(gb|WP_000140406) (ybtA) transcriptional regulator YbtA [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_158	3	VFG044327(gb|WP_000140406) (ybtA) yersiniabactin transcriptional regulator YbtA [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_158	3	VFG000360(gb|WP_002212799) (ybtT) type II thioesterase YbtT [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_158	3	VFG044331(gb|WP_015874966) (ybtT) type II thioesterase YbtT [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_160	2	VFG000362(gb|WP_002212777) (irp1) yersiniabactin biosynthetic protein Irp1 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_160	2	VFG044329(gb|WP_015874964) (irp1) yersiniabactin polyketide synthase HMWP1 [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_160	2	VFG000363(gb|WP_002212775) (irp2) yersiniabactin biosynthetic protein Irp2 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_160	2	VFG044328(gb|WP_015874963) (irp2) yersiniabactin non-ribosomal peptide synthetase HMWP2 [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_160	2	VFG000358(gb|WP_002212885) (fyuA/psn) pesticin/yersiniabactin receptor protein [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_160	2	VFG044333(gb|WP_015874968) (fyuA) yersiniabactin receptor FyuA [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_160	2	VFG000366(gb|WP_002212761) (ybtQ) yersiniabactin ABC transporter ATP-binding/permease protein YbtQ [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_160	2	VFG044325(gb|WP_002212761) (ybtQ) yersiniabactin ABC transporter ATP-binding/permease protein YbtQ [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_160	2	VFG044326(gb|WP_001327262) (ybtP) yersiniabactin ABC transporter ATP-binding/permease protein YbtP [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_160	2	VFG000365(gb|WP_002214412) (ybtP) yersiniabactin ABC transporter ATP-binding/permease protein YbtP [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_160	2	VFG000359(gb|WP_001088826) (ybtE) yersiniabactin siderophore biosynthetic protein [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_160	2	VFG044332(gb|WP_015874967) (ybtE) yersiniabactin biosynthesis salycil-AMP ligase YbtE [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_160	2	VFG000367(gb|WP_001286280) (ybtX) putative signal transducer [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_160	2	VFG044324(gb|WP_032447693) (ybtX) yersiniabactin-associated zinc MFS transporter YbtX [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_160	2	VFG000361(gb|WP_000982866) (ybtU) yersiniabactin biosynthetic protein YbtU [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_160	2	VFG044330(gb|WP_032447695) (ybtU) yersiniabactin biosynthesis oxidoreductase YbtU [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_160	2	VFG000368(gb|WP_000703040) (ybtS) salicylate synthase Irp9 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_160	2	VFG044323(gb|WP_015874960) (ybtS) yersiniabactin biosynthesis salicylate synthase YbtS [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_160	2	VFG000364(gb|WP_000140406) (ybtA) transcriptional regulator YbtA [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_160	2	VFG044327(gb|WP_000140406) (ybtA) yersiniabactin transcriptional regulator YbtA [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_160	2	VFG000360(gb|WP_002212799) (ybtT) type II thioesterase YbtT [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_160	2	VFG044331(gb|WP_015874966) (ybtT) type II thioesterase YbtT [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_195	2	VFG000362(gb|WP_002212777) (irp1) yersiniabactin biosynthetic protein Irp1 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_195	2	VFG044329(gb|WP_015874964) (irp1) yersiniabactin polyketide synthase HMWP1 [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_195	2	VFG000363(gb|WP_002212775) (irp2) yersiniabactin biosynthetic protein Irp2 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_195	2	VFG044328(gb|WP_015874963) (irp2) yersiniabactin non-ribosomal peptide synthetase HMWP2 [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_195	2	VFG000358(gb|WP_002212885) (fyuA/psn) pesticin/yersiniabactin receptor protein [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_195	2	VFG044333(gb|WP_015874968) (fyuA) yersiniabactin receptor FyuA [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_195	2	VFG000366(gb|WP_002212761) (ybtQ) yersiniabactin ABC transporter ATP-binding/permease protein YbtQ [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_195	2	VFG044325(gb|WP_002212761) (ybtQ) yersiniabactin ABC transporter ATP-binding/permease protein YbtQ [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_195	2	VFG044326(gb|WP_001327262) (ybtP) yersiniabactin ABC transporter ATP-binding/permease protein YbtP [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_195	2	VFG000365(gb|WP_002214412) (ybtP) yersiniabactin ABC transporter ATP-binding/permease protein YbtP [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_195	2	VFG000359(gb|WP_001088826) (ybtE) yersiniabactin siderophore biosynthetic protein [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_195	2	VFG044332(gb|WP_015874967) (ybtE) yersiniabactin biosynthesis salycil-AMP ligase YbtE [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_195	2	VFG000367(gb|WP_001286280) (ybtX) putative signal transducer [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_195	2	VFG044324(gb|WP_032447693) (ybtX) yersiniabactin-associated zinc MFS transporter YbtX [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_195	2	VFG000361(gb|WP_000982866) (ybtU) yersiniabactin biosynthetic protein YbtU [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_195	2	VFG044330(gb|WP_032447695) (ybtU) yersiniabactin biosynthesis oxidoreductase YbtU [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_195	2	VFG000368(gb|WP_000703040) (ybtS) salicylate synthase Irp9 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_195	2	VFG044323(gb|WP_015874960) (ybtS) yersiniabactin biosynthesis salicylate synthase YbtS [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_195	2	VFG012865 (ipaH) invasion plasmid antigen IpaH [TTSS secreted effectors (VF0978) - Effector delivery system (VFC0086)] [Shigella flexneri 2a str. 301]	VF
+K_195	2	VFG000364(gb|WP_000140406) (ybtA) transcriptional regulator YbtA [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_195	2	VFG044327(gb|WP_000140406) (ybtA) yersiniabactin transcriptional regulator YbtA [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_195	2	VFG000360(gb|WP_002212799) (ybtT) type II thioesterase YbtT [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_195	2	VFG044331(gb|WP_015874966) (ybtT) type II thioesterase YbtT [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_229	3	VFG000362(gb|WP_002212777) (irp1) yersiniabactin biosynthetic protein Irp1 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_229	3	VFG044329(gb|WP_015874964) (irp1) yersiniabactin polyketide synthase HMWP1 [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_229	3	VFG000363(gb|WP_002212775) (irp2) yersiniabactin biosynthetic protein Irp2 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_229	3	VFG044328(gb|WP_015874963) (irp2) yersiniabactin non-ribosomal peptide synthetase HMWP2 [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_229	3	VFG000358(gb|WP_002212885) (fyuA/psn) pesticin/yersiniabactin receptor protein [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_229	3	VFG044333(gb|WP_015874968) (fyuA) yersiniabactin receptor FyuA [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_229	3	VFG000366(gb|WP_002212761) (ybtQ) yersiniabactin ABC transporter ATP-binding/permease protein YbtQ [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_229	3	VFG044325(gb|WP_002212761) (ybtQ) yersiniabactin ABC transporter ATP-binding/permease protein YbtQ [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_229	3	VFG044326(gb|WP_001327262) (ybtP) yersiniabactin ABC transporter ATP-binding/permease protein YbtP [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_229	3	VFG000365(gb|WP_002214412) (ybtP) yersiniabactin ABC transporter ATP-binding/permease protein YbtP [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_229	3	VFG000359(gb|WP_001088826) (ybtE) yersiniabactin siderophore biosynthetic protein [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_229	3	VFG044332(gb|WP_015874967) (ybtE) yersiniabactin biosynthesis salycil-AMP ligase YbtE [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_229	3	VFG000367(gb|WP_001286280) (ybtX) putative signal transducer [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_229	3	VFG044324(gb|WP_032447693) (ybtX) yersiniabactin-associated zinc MFS transporter YbtX [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_229	3	VFG000361(gb|WP_000982866) (ybtU) yersiniabactin biosynthetic protein YbtU [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_229	3	VFG044330(gb|WP_032447695) (ybtU) yersiniabactin biosynthesis oxidoreductase YbtU [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_229	3	VFG000368(gb|WP_000703040) (ybtS) salicylate synthase Irp9 [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_229	3	VFG044323(gb|WP_015874960) (ybtS) yersiniabactin biosynthesis salicylate synthase YbtS [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_229	3	VFG012865 (ipaH) invasion plasmid antigen IpaH [TTSS secreted effectors (VF0978) - Effector delivery system (VFC0086)] [Shigella flexneri 2a str. 301]	VF
+K_229	3	VFG000364(gb|WP_000140406) (ybtA) transcriptional regulator YbtA [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_229	3	VFG044327(gb|WP_000140406) (ybtA) yersiniabactin transcriptional regulator YbtA [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
+K_229	3	VFG000360(gb|WP_002212799) (ybtT) type II thioesterase YbtT [Yersiniabactin (VF0136) - Nutritional/Metabolic factor (VFC0272)] [Yersinia pestis CO92]	VF
+K_229	3	VFG044331(gb|WP_015874966) (ybtT) type II thioesterase YbtT [Ybt (VF0564) - Nutritional/Metabolic factor (VFC0272)] [Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044]	VF
