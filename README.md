@@ -19,7 +19,7 @@ Taken together, our results demonstrate a dynamic population and the emergence o
 
 | File & folder Name                  | Description                                                                                  |
 | ----------------------------------- | ---------------------------------------------------------------------------------------------|
-| `Annotated_plasmid`                 | Annotated InC plasmid sequence in gbk format                                                 |
+| `Annotated_plasmid`                 | Annotated plasmid sequence in gbk format                                                     |
 | `plasmids_info.csv`                 | Plasmid-related information with NCBI nucleotide accession                                   |
 | `plasmid_amr_vf_amrfinderplus.tsv`  | AMR genes and virulence factors detected in plasmid by AMRFinderPlus                         |
 | `plasmid_amr_vf_blast.tsv`          | AMR genes and virulence factors detected in plasmid by BLASTN against CARD & VFDB database   |
