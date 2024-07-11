@@ -94,7 +94,7 @@ p3 <- p2 + new_scale_fill()
 p4 <- gheatmap(p3, tree_country, offset = 0.07, width = 0.1, font.size = 3, colnames = FALSE, hjust = 0, color = NA) +
   scale_x_ggtree() +
   scale_y_continuous(expand = c(0, 0.00003)) +
-  scale_fill_manual(values = c("#DD6E42", "#FF0000", "#00FF00", "#0000FF", "#FFFF00", "#00FFFF", "#FF00FF", "#800000", "#008000", "#000080", "#808000", "#800080", "#008080", "#B1740F", "#FFD07B", "#FFA500", "#FFFF80", "#80FF00", "#80FFFF", "#FF80C0", "#FF0080", "#8000FF"), name = "Continent")
+  scale_fill_manual(values = c("#DD6E42", "#FF0000", "#00FF00", "#0000FF", "#FFFF00", "#00FFFF", "#FF00FF", "#800000", "#008000", "#000080", "#808000", "#800080", "#008080", "#B1740F", "#FFD07B", "#FFA500", "#FFFF80", "#80FF00", "#80FFFF", "#FF80C0", "#FF0080", "#8000FF"), name = "Country")
 p4
 
 # Prepare metadata for focused country heatmap
