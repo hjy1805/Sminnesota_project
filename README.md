@@ -1,4 +1,4 @@
-# Large-scale Genomic Survey of Non-typhoidal *Salmonella enterica* serovar Minnesota Strains in Chicken Products Reveals the Emergence of Multidrug Resistant Clones
+# Genomic survey of multidrug resistant *Salmonella enterica* serovar Minnesota clones in chicken products
 
 ## Abstract
 
