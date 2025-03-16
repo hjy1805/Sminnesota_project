@@ -39,6 +39,9 @@ Taken together, our results demonstrate a dynamic population and the emergence o
 | `metadata_processing.R`             | R script for the relevant metadata processing                                                |
 | `pvgenomic.ipynb`                   | Python script for the plasmid alignment and visualisation by pyGenomeViz                     |
 
+## Reference
+Huang, J., Alzahrani, K.O., Zhou, G. et al. Genomic survey of multidrug resistant *Salmonella enterica* serovar Minnesota clones in chicken products. *npj Antimicrob Resist* 3, 10 (2025). https://doi.org/10.1038/s44259-025-00077-4
+
 ## Contacts
 For inquiries regarding this research, please contact:
 
